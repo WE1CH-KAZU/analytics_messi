@@ -6,8 +6,11 @@ readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
     "lxml>=6.0.2",
+    "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pandas>=3.0.0",
+    "plotly>=6.5.2",
+    "seaborn>=0.13.2",
 ]
 
 [dependency-groups]
@@ -36,6 +39,7 @@ ignore = [
 
 [tool.ruff.lint.isort]
 known-first-party = ["matplotlib_defaults", "pandas_display"]
+known-third-party = ["matplotlib_defaults", "pandas_display"]
 
 [tool.ruff.format]
 quote-style = "double"
