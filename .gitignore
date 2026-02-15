@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+__init__.py
+.gitkeep
 
 # Virtual environments
 .venv
+
+.DS_Store
