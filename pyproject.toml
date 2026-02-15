@@ -1,0 +1,7 @@
+[project]
+name = "analytics-messi"
+version = "0.1.0"
+description = "Analytics messi goal stats"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = []
