@@ -5,9 +5,13 @@ build/
 dist/
 wheels/
 *.egg-info
+__init__.py
 
 # Virtual environments
 .venv
 
 # Keep empty directories (tracked by git); ignore .gitkeep itself
 .gitkeep
+
+# macOS files
+.DS_Store
