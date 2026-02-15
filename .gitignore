@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Keep empty directories (tracked by git); ignore .gitkeep itself
+.gitkeep
