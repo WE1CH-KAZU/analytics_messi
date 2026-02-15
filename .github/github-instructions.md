@@ -74,3 +74,9 @@ develop/xxx → stage → main
 - 分析ノートブックは実行結果をクリアしてからコミット（再現性のため）
 - 大きなデータセットは Git LFS または外部ストレージを利用
 - `.gitignore` で中間ファイル（`*.pyc`, `__pycache__`, `.ipynb_checkpoints`）を除外
+
+## 6. 利用環境
+- このディレクトリの`.venv`を利用すること
+- Python実行時は必ず`.venv`のインタプリタを使うこと（例: `.venv/bin/python`）。`python`/`python3`の直接実行での代替は不可
+- 必要に応じて`source .venv/bin/activate`で有効化してから作業すること
+- 環境構築は`uv`だが、ライブラリ追加は必ず承認を得てから実行すること
