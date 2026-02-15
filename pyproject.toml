@@ -5,6 +5,7 @@ description = "Analytics messi goal stats"
 readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
+    "lxml>=6.0.2",
     "numpy>=2.4.2",
     "pandas>=3.0.0",
 ]
@@ -15,3 +16,26 @@ dev = [
     "pytest>=9.0.2",
     "ruff>=0.15.1",
 ]
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # Pyflakes
+    "I",   # isort
+    "N",   # pep8-naming
+    "W",   # pycodestyle warnings
+    "UP",  # pyupgrade
+]
+ignore = [
+    "E501",  # line too long (Black に任せる)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["matplotlib_defaults", "pandas_display"]
+
+[tool.ruff.format]
+quote-style = "double"
