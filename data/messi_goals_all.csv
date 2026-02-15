@@ -1,0 +1,897 @@
+﻿goal_index,date,competition_code,competition,home_team,away_team,result,minute_raw,minute_base,minute_added,minute_total,what,how,is_penalty,is_official,source_url
+1,2005-05-01,PRM La Liga,PRM La Liga,FC Barcelona,Albacete,2-0,90,90,0,90,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+2,2005-11-02,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Panathinaikos,5-0,34,34,0,34,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+3,2005-11-27,PRM La Liga,PRM La Liga,FC Barcelona,Racing Santander,4-1,52,52,0,52,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+4,2006-01-15,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-1,51,51,0,51,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+5,2006-01-22,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,2-0,81,81,0,81,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+6,2006-01-29,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,0-3,75,75,0,75,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+7,2006-01-29,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,0-3,81,81,0,81,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+8,2006-02-01,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Real Zaragoza,2-1,42,42,0,42,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+9,2006-02-18,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,5-1,85,85,0,85,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+10,2006-03-01,FRN International friendly,FRN International friendly,Croatia,Argentina,3-2,6,6,0,6,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+11,2006-06-16,WCP World Cup 2006,WCP World Cup 2006,Argentina,Serbia and Montenegro,6-0,88,88,0,88,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+12,2006-08-28,PRM La Liga,PRM La Liga,Celta de Vigo,FC Barcelona,2-3,60,60,0,60,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+13,2006-09-09,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,3-0,37,37,0,37,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+14,2006-09-27,EUR UEFA Champions League,EUR UEFA Champions League,Werder Bremen,FC Barcelona,1-1,89,89,0,89,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+15,2006-10-15,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,3-1,81,81,0,81,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+16,2007-03-10,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,3-3,11,11,0,11,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+17,2007-03-10,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,3-3,28,28,0,28,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+18,2007-03-10,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,3-3,90,90,0,90,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+19,2007-03-17,PRM La Liga,PRM La Liga,Recreativo Huelva,FC Barcelona,0-4,86,86,0,86,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+20,2007-03-31,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,2-1,45,45,0,45,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+21,2007-04-18,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Getafe,5-2,29,29,0,29,Solo run,Right foot,0,1,https://www.messistats.com/en/locationsscored
+22,2007-04-18,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Getafe,5-2,45,45,0,45,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+23,2007-05-20,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,0-6,39,39,0,39,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+24,2007-05-20,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,0-6,80,80,0,80,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+25,2007-06-05,FRN International friendly,FRN International friendly,Argentina,Algeria,4-3,54,54,0,54,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+26,2007-06-05,FRN International friendly,FRN International friendly,Argentina,Algeria,4-3,73,73,0,73,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+27,2007-06-09,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,2-2,43,43,0,43,,Hand,0,1,https://www.messistats.com/en/locationsscored
+28,2007-06-09,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,2-2,57,57,0,57,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+29,2007-06-17,PRM La Liga,PRM La Liga,Gimnàstic,FC Barcelona,1-5,35,35,0,35,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+30,2007-06-17,PRM La Liga,PRM La Liga,Gimnàstic,FC Barcelona,1-5,51,51,0,51,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+31,2007-07-09,CPA Copa América 2007,CPA Copa América 2007,Argentina,Peru,4-0,61,61,0,61,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+32,2007-07-12,CPA Copa América 2007,CPA Copa América 2007,Mexico,Argentina,0-3,61,61,0,61,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+33,2007-09-19,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Olympique Lyonnais,3-0,83,83,0,83,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+34,2007-09-22,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,2-1,74,74,0,74,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+35,2007-09-22,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,2-1,80,80,0,80,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+36,2007-09-26,PRM La Liga,PRM La Liga,FC Barcelona,Real Zaragoza,4-1,5,5,0,5,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+37,2007-09-26,PRM La Liga,PRM La Liga,FC Barcelona,Real Zaragoza,4-1,11,11,0,11,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+38,2007-09-29,PRM La Liga,PRM La Liga,Levante,FC Barcelona,1-4,51,51,0,51,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+39,2007-10-02,EUR UEFA Champions League,EUR UEFA Champions League,VfB Stuttgart,FC Barcelona,0-2,67,67,0,67,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+40,2007-10-07,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,3-0,19,19,0,19,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+41,2007-10-17,WCQ World Cup 2010 Qualification,WCQ World Cup 2010 Qualification,Venezuela,Argentina,0-2,43,43,0,43,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+42,2007-10-28,PRM La Liga,PRM La Liga,FC Barcelona,UD Almería,2-0,81,81,0,81,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+43,2007-11-07,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Glasgow Rangers,2-0,43,43,0,43,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+44,2007-11-21,WCQ World Cup 2010 Qualification,WCQ World Cup 2010 Qualification,Colombia,Argentina,2-1,36,36,0,36,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+45,2007-11-24,PRM La Liga,PRM La Liga,FC Barcelona,Recreativo Huelva,3-0,82,82,0,82,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+46,2007-11-27,EUR UEFA Champions League,EUR UEFA Champions League,Olympique Lyonnais,FC Barcelona,2-2,58,58,0,58,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+47,2008-02-20,EUR UEFA Champions League,EUR UEFA Champions League,Celtic,FC Barcelona,2-3,18,18,0,18,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+48,2008-02-20,EUR UEFA Champions League,EUR UEFA Champions League,Celtic,FC Barcelona,2-3,79,79,0,79,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+49,2008-02-24,PRM La Liga,PRM La Liga,FC Barcelona,Levante,5-1,44,44,0,44,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+50,2008-05-04,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,6-0,6,6,0,6,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+51,2008-06-05,FRN International friendly,FRN International friendly,Mexico,Argentina,1-4,18,18,0,18,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+52,2008-09-13,PRM La Liga,PRM La Liga,FC Barcelona,Racing Santander,1-1,71,71,0,71,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+53,2008-09-21,PRM La Liga,PRM La Liga,Sporting Gijón,FC Barcelona,1-6,85,85,0,85,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+54,2008-09-21,PRM La Liga,PRM La Liga,Sporting Gijón,FC Barcelona,1-6,89,89,0,89,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+55,2008-09-27,PRM La Liga,PRM La Liga,Espanyol,FC Barcelona,1-2,90+7,90,7,97,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+56,2008-10-01,EUR UEFA Champions League,EUR UEFA Champions League,Shakhtar Donetsk,FC Barcelona,1-2,87,87,0,87,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+57,2008-10-01,EUR UEFA Champions League,EUR UEFA Champions League,Shakhtar Donetsk,FC Barcelona,1-2,90+4,90,4,94,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+58,2008-10-04,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,6-1,9,9,0,9,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+59,2008-10-11,WCQ World Cup 2010 Qualification,WCQ World Cup 2010 Qualification,Argentina,Uruguay,2-1,6,6,0,6,,Head,0,1,https://www.messistats.com/en/locationsscored
+60,2008-10-22,EUR UEFA Champions League,EUR UEFA Champions League,FC Basel,FC Barcelona,0-5,4,4,0,4,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+61,2008-11-01,PRM La Liga,PRM La Liga,Málaga,FC Barcelona,1-4,19,19,0,19,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+62,2008-11-04,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,FC Basel,1-1,62,62,0,62,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+63,2008-11-12,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Benidorm,1-0,87,87,0,87,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+64,2008-11-16,PRM La Liga,PRM La Liga,Recreativo Huelva,FC Barcelona,0-2,52,52,0,52,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+65,2008-11-26,EUR UEFA Champions League,EUR UEFA Champions League,Sporting Lisbon,FC Barcelona,2-5,49,49,0,49,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+66,2008-11-29,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,0-3,78,78,0,78,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+67,2008-11-29,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,0-3,90+2,90,2,92,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+68,2008-12-13,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,2-0,90+1,90,1,91,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+69,2009-01-06,CUP Copa del Rey,CUP Copa del Rey,Atlético Madrid,FC Barcelona,1-3,13,13,0,13,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+70,2009-01-06,CUP Copa del Rey,CUP Copa del Rey,Atlético Madrid,FC Barcelona,1-3,57,57,0,57,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+71,2009-01-06,CUP Copa del Rey,CUP Copa del Rey,Atlético Madrid,FC Barcelona,1-3,80,80,0,80,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+72,2009-01-11,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,2-3,85,85,0,85,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+73,2009-01-17,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,5-0,21,21,0,21,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+74,2009-01-24,PRM La Liga,PRM La Liga,FC Barcelona,Numancia,4-1,49,49,0,49,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+75,2009-01-24,PRM La Liga,PRM La Liga,FC Barcelona,Numancia,4-1,76,76,0,76,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+76,2009-02-01,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,1-2,65,65,0,65,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+77,2009-02-01,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,1-2,81,81,0,81,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+78,2009-02-11,FRN International friendly,FRN International friendly,France,Argentina,0-2,83,83,0,83,Solo run,Left foot,0,0,https://www.messistats.com/en/locationsscored
+79,2009-03-01,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,4-3,30,30,0,30,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+80,2009-03-04,CUP Copa del Rey,CUP Copa del Rey,Real Mallorca,FC Barcelona,1-1,81,81,0,81,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+81,2009-03-07,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-0,32,32,0,32,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+82,2009-03-11,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Olympique Lyonnais,5-2,40,40,0,40,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+83,2009-03-22,PRM La Liga,PRM La Liga,FC Barcelona,Málaga,6-0,25,25,0,25,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+84,2009-03-28,WCQ World Cup 2010 Qualification,WCQ World Cup 2010 Qualification,Argentina,Venezuela,4-0,26,26,0,26,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+85,2009-04-08,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayern München,4-0,9,9,0,9,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+86,2009-04-08,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayern München,4-0,38,38,0,38,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+87,2009-04-18,PRM La Liga,PRM La Liga,Getafe,FC Barcelona,0-1,19,19,0,19,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+88,2009-04-25,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-2,24,24,0,24,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+89,2009-05-02,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,2-6,36,36,0,36,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+90,2009-05-02,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,2-6,75,75,0,75,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+91,2009-05-13,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,1-4,55,55,0,55,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+92,2009-05-27,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester United,2-0,70,70,0,70,,Head,0,1,https://www.messistats.com/en/locationsscored
+93,2009-08-23,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Athletic de Bilbao,3-0,50,50,0,50,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+94,2009-08-23,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Athletic de Bilbao,3-0,68,68,0,68,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+95,2009-09-12,PRM La Liga,PRM La Liga,Getafe,FC Barcelona,0-2,80,80,0,80,,Head,0,1,https://www.messistats.com/en/locationsscored
+96,2009-09-19,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,5-2,16,16,0,16,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+97,2009-09-19,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,5-2,90+4,90,4,94,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+98,2009-09-22,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,1-4,24,24,0,24,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+99,2009-09-22,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,1-4,63,63,0,63,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+100,2009-09-29,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Dynamo Kyiv,2-0,26,26,0,26,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+101,2009-10-25,PRM La Liga,PRM La Liga,FC Barcelona,Real Zaragoza,6-1,80,80,0,80,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+102,2009-11-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,4-2,87,87,0,87,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+103,2009-11-10,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Cultural Leonesa,5-0,64,64,0,64,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+104,2009-11-14,FRN International friendly,FRN International friendly,Spain,Argentina,2-1,61,61,0,61,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+105,2009-12-05,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,1-3,27,27,0,27,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+106,2009-12-05,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,1-3,80,80,0,80,,Head,0,1,https://www.messistats.com/en/locationsscored
+107,2009-12-09,EUR UEFA Champions League,EUR UEFA Champions League,Dynamo Kyiv,FC Barcelona,1-2,86,86,0,86,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+108,2009-12-16,WCT FIFA Club World Cup,WCT FIFA Club World Cup,Atlante,FC Barcelona,1-3,55,55,0,55,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+109,2009-12-19,WCT FIFA Club World Cup,WCT FIFA Club World Cup,Estudiantes La Plata,FC Barcelona,1-2,110,110,0,110,,Chest,0,1,https://www.messistats.com/en/locationsscored
+110,2010-01-10,PRM La Liga,PRM La Liga,Tenerife,FC Barcelona,0-5,36,36,0,36,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+111,2010-01-10,PRM La Liga,PRM La Liga,Tenerife,FC Barcelona,0-5,45,45,0,45,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+112,2010-01-10,PRM La Liga,PRM La Liga,Tenerife,FC Barcelona,0-5,75,75,0,75,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+113,2010-01-16,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,4-0,85,85,0,85,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+114,2010-01-16,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,4-0,90+1,90,1,91,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+115,2010-01-23,PRM La Liga,PRM La Liga,Real Valladolid,FC Barcelona,0-3,56,56,0,56,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+116,2010-02-06,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,2-1,7,7,0,7,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+117,2010-02-27,PRM La Liga,PRM La Liga,FC Barcelona,Málaga,2-1,84,84,0,84,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+118,2010-03-06,PRM La Liga,PRM La Liga,UD Almería,FC Barcelona,2-2,42,42,0,42,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+119,2010-03-06,PRM La Liga,PRM La Liga,UD Almería,FC Barcelona,2-2,66,66,0,66,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+120,2010-03-14,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,3-0,56,56,0,56,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+121,2010-03-14,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,3-0,81,81,0,81,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+122,2010-03-14,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,3-0,83,83,0,83,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+123,2010-03-17,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,VfB Stuttgart,4-0,13,13,0,13,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+124,2010-03-17,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,VfB Stuttgart,4-0,60,60,0,60,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+125,2010-03-21,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,2-4,5,5,0,5,,Head,0,1,https://www.messistats.com/en/locationsscored
+126,2010-03-21,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,2-4,66,66,0,66,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+127,2010-03-21,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,2-4,78,78,0,78,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+128,2010-04-03,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,4-1,67,67,0,67,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+129,2010-04-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,4-1,21,21,0,21,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+130,2010-04-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,4-1,37,37,0,37,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+131,2010-04-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,4-1,42,42,0,42,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+132,2010-04-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,4-1,88,88,0,88,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+133,2010-04-10,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,0-2,33,33,0,33,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+134,2010-05-01,PRM La Liga,PRM La Liga,Villarreal,FC Barcelona,1-4,19,19,0,19,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+135,2010-05-01,PRM La Liga,PRM La Liga,Villarreal,FC Barcelona,1-4,88,88,0,88,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+136,2010-05-04,PRM La Liga,PRM La Liga,FC Barcelona,Tenerife,4-1,17,17,0,17,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+137,2010-05-04,PRM La Liga,PRM La Liga,FC Barcelona,Tenerife,4-1,90+3,90,3,93,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+138,2010-05-08,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,2-3,5,5,0,5,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+139,2010-05-16,PRM La Liga,PRM La Liga,FC Barcelona,Real Valladolid,4-0,62,62,0,62,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+140,2010-05-16,PRM La Liga,PRM La Liga,FC Barcelona,Real Valladolid,4-0,76,76,0,76,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+141,2010-08-21,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Sevilla,4-0,24,24,0,24,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+142,2010-08-21,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Sevilla,4-0,43,43,0,43,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+143,2010-08-21,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Sevilla,4-0,90,90,0,90,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+144,2010-08-29,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,0-3,3,3,0,3,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+145,2010-09-07,FRN International friendly,FRN International friendly,Argentina,Spain,4-1,10,10,0,10,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+146,2010-09-14,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Panathinaikos,5-1,22,22,0,22,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+147,2010-09-14,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Panathinaikos,5-1,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+148,2010-09-19,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,1-2,13,13,0,13,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+149,2010-10-03,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,1-1,21,21,0,21,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+150,2010-10-20,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,FC Copenhagen,2-0,19,19,0,19,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+151,2010-10-20,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,FC Copenhagen,2-0,90+2,90,2,92,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+152,2010-10-23,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,0-2,42,42,0,42,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+153,2010-10-23,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,0-2,66,66,0,66,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+154,2010-10-30,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,5-0,4,4,0,4,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+155,2010-10-30,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,5-0,64,64,0,64,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+156,2010-11-02,EUR UEFA Champions League,EUR UEFA Champions League,FC Copenhagen,FC Barcelona,1-1,31,31,0,31,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+157,2010-11-07,PRM La Liga,PRM La Liga,Getafe,FC Barcelona,1-3,23,23,0,23,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+158,2010-11-10,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,AD Ceuta,5-1,68,68,0,68,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+159,2010-11-13,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,3-1,58,58,0,58,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+160,2010-11-13,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,3-1,83,83,0,83,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+161,2010-11-17,FRN International friendly,FRN International friendly,Argentina,Brazil,1-0,90+2,90,2,92,Solo run,Left foot,0,0,https://www.messistats.com/en/locationsscored
+162,2010-11-20,PRM La Liga,PRM La Liga,UD Almería,FC Barcelona,0-8,17,17,0,17,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+163,2010-11-20,PRM La Liga,PRM La Liga,UD Almería,FC Barcelona,0-8,37,37,0,37,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+164,2010-11-20,PRM La Liga,PRM La Liga,UD Almería,FC Barcelona,0-8,67,67,0,67,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+165,2010-11-24,EUR UEFA Champions League,EUR UEFA Champions League,Panathinaikos,FC Barcelona,0-3,62,62,0,62,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+166,2010-12-04,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,0-3,65,65,0,65,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+167,2010-12-04,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,0-3,83,83,0,83,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+168,2010-12-12,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,5-0,47,47,0,47,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+169,2010-12-12,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,5-0,87,87,0,87,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+170,2011-01-08,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,0-4,52,52,0,52,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+171,2011-01-12,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Real Betis,5-0,44,44,0,44,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+172,2011-01-12,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Real Betis,5-0,62,62,0,62,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+173,2011-01-12,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Real Betis,5-0,73,73,0,73,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+174,2011-01-19,CUP Copa del Rey,CUP Copa del Rey,Real Betis,FC Barcelona,3-1,38,38,0,38,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+175,2011-01-22,PRM La Liga,PRM La Liga,FC Barcelona,Racing Santander,3-0,33,33,0,33,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+176,2011-01-26,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,UD Almería,5-0,9,9,0,9,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+177,2011-01-26,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,UD Almería,5-0,16,16,0,16,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+178,2011-01-29,PRM La Liga,PRM La Liga,Hercules Alicante,FC Barcelona,0-3,87,87,0,87,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+179,2011-01-29,PRM La Liga,PRM La Liga,Hercules Alicante,FC Barcelona,0-3,89,89,0,89,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+180,2011-02-05,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,3-0,17,17,0,17,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+181,2011-02-05,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,3-0,28,28,0,28,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+182,2011-02-05,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,3-0,79,79,0,79,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+183,2011-02-09,FRN International friendly,FRN International friendly,Argentina,Portugal,2-1,90,90,0,90,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+184,2011-02-20,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-1,78,78,0,78,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+185,2011-02-26,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,0-3,38,38,0,38,,Head,0,1,https://www.messistats.com/en/locationsscored
+186,2011-03-02,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,0-1,77,77,0,77,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+187,2011-03-08,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,3-1,45+3,45,3,48,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+188,2011-03-08,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,3-1,71,71,0,71,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+189,2011-04-09,PRM La Liga,PRM La Liga,FC Barcelona,UD Almería,3-1,53,53,0,53,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+190,2011-04-09,PRM La Liga,PRM La Liga,FC Barcelona,UD Almería,3-1,90+2,90,2,92,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+191,2011-04-12,EUR UEFA Champions League,EUR UEFA Champions League,Shakhtar Donetsk,FC Barcelona,0-1,43,43,0,43,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+192,2011-04-16,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,1-1,53,53,0,53,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+193,2011-04-23,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,2-0,87,87,0,87,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+194,2011-04-27,EUR UEFA Champions League,EUR UEFA Champions League,Real Madrid,FC Barcelona,0-2,76,76,0,76,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+195,2011-04-27,EUR UEFA Champions League,EUR UEFA Champions League,Real Madrid,FC Barcelona,0-2,87,87,0,87,Solo run,Right foot,0,1,https://www.messistats.com/en/locationsscored
+196,2011-05-28,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester United,3-1,54,54,0,54,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+197,2011-06-20,FRN International friendly,FRN International friendly,Argentina,Albania,4-0,42,42,0,42,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+198,2011-08-14,SUP Spanish Super Cup,SUP Spanish Super Cup,Real Madrid,FC Barcelona,2-2,45,45,0,45,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+199,2011-08-17,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Real Madrid,3-2,45,45,0,45,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+200,2011-08-17,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Real Madrid,3-2,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+201,2011-08-26,IUP UEFA European Super Cup,IUP UEFA European Super Cup,FC Barcelona,FC Porto,2-0,39,39,0,39,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+202,2011-08-29,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,5-0,52,52,0,52,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+203,2011-08-29,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,5-0,75,75,0,75,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+204,2011-09-17,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,8-0,5,5,0,5,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+205,2011-09-17,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,8-0,41,41,0,41,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+206,2011-09-17,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,8-0,79,79,0,79,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+207,2011-09-24,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,5-0,26,26,0,26,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+208,2011-09-24,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,5-0,78,78,0,78,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+209,2011-09-24,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,5-0,90+1,90,1,91,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+210,2011-09-28,EUR UEFA Champions League,EUR UEFA Champions League,BATE Borisov,FC Barcelona,0-5,38,38,0,38,,Head,0,1,https://www.messistats.com/en/locationsscored
+211,2011-09-28,EUR UEFA Champions League,EUR UEFA Champions League,BATE Borisov,FC Barcelona,0-5,55,55,0,55,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+212,2011-10-08,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Argentina,Chile,4-1,26,26,0,26,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+213,2011-10-15,PRM La Liga,PRM La Liga,FC Barcelona,Racing Santander,3-0,11,11,0,11,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+214,2011-10-15,PRM La Liga,PRM La Liga,FC Barcelona,Racing Santander,3-0,68,68,0,68,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+215,2011-10-29,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,5-0,13,13,0,13,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+216,2011-10-29,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,5-0,21,21,0,21,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+217,2011-10-29,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,5-0,30,30,0,30,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+218,2011-11-01,EUR UEFA Champions League,EUR UEFA Champions League,Viktoria Plzen,FC Barcelona,0-4,24,24,0,24,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+219,2011-11-01,EUR UEFA Champions League,EUR UEFA Champions League,Viktoria Plzen,FC Barcelona,0-4,45,45,0,45,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+220,2011-11-01,EUR UEFA Champions League,EUR UEFA Champions League,Viktoria Plzen,FC Barcelona,0-4,90+2,90,2,92,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+221,2011-11-06,PRM La Liga,PRM La Liga,Athletic de Bilbao,FC Barcelona,2-2,90+1,90,1,91,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+222,2011-11-15,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Colombia,Argentina,1-2,60,60,0,60,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+223,2011-11-19,PRM La Liga,PRM La Liga,FC Barcelona,Real Zaragoza,4-0,43,43,0,43,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+224,2011-11-23,EUR UEFA Champions League,EUR UEFA Champions League,AC Milan,FC Barcelona,2-3,31,31,0,31,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+225,2011-11-29,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,4-0,50,50,0,50,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+226,2011-12-03,PRM La Liga,PRM La Liga,FC Barcelona,Levante,5-0,55,55,0,55,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+227,2011-12-18,WCT FIFA Club World Cup,WCT FIFA Club World Cup,Santos,FC Barcelona,0-4,17,17,0,17,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+228,2011-12-18,WCT FIFA Club World Cup,WCT FIFA Club World Cup,Santos,FC Barcelona,0-4,82,82,0,82,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+229,2012-01-04,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Osasuna,4-0,73,73,0,73,,Head,0,1,https://www.messistats.com/en/locationsscored
+230,2012-01-04,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Osasuna,4-0,90+2,90,2,92,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+231,2012-01-15,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,4-2,12,12,0,12,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+232,2012-01-15,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,4-2,86,86,0,86,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+233,2012-01-22,PRM La Liga,PRM La Liga,Málaga,FC Barcelona,1-4,33,33,0,33,,Head,0,1,https://www.messistats.com/en/locationsscored
+234,2012-01-22,PRM La Liga,PRM La Liga,Málaga,FC Barcelona,1-4,51,51,0,51,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+235,2012-01-22,PRM La Liga,PRM La Liga,Málaga,FC Barcelona,1-4,81,81,0,81,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+236,2012-02-04,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,2-1,72,72,0,72,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+237,2012-02-14,EUR UEFA Champions League,EUR UEFA Champions League,Bayer Leverkusen,FC Barcelona,1-3,88,88,0,88,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+238,2012-02-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,5-1,22,22,0,22,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+239,2012-02-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,5-1,27,27,0,27,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+240,2012-02-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,5-1,76,76,0,76,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+241,2012-02-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,5-1,85,85,0,85,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+242,2012-02-26,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,1-2,81,81,0,81,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+243,2012-02-29,FRN International friendly,FRN International friendly,Switzerland,Argentina,1-3,20,20,0,20,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+244,2012-02-29,FRN International friendly,FRN International friendly,Switzerland,Argentina,1-3,88,88,0,88,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+245,2012-02-29,FRN International friendly,FRN International friendly,Switzerland,Argentina,1-3,90+3,90,3,93,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+246,2012-03-07,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayer Leverkusen,7-1,25,25,0,25,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+247,2012-03-07,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayer Leverkusen,7-1,42,42,0,42,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+248,2012-03-07,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayer Leverkusen,7-1,49,49,0,49,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+249,2012-03-07,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayer Leverkusen,7-1,58,58,0,58,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+250,2012-03-07,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayer Leverkusen,7-1,84,84,0,84,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+251,2012-03-11,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,0-2,29,29,0,29,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+252,2012-03-11,PRM La Liga,PRM La Liga,Racing Santander,FC Barcelona,0-2,56,56,0,56,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+253,2012-03-17,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,0-2,25,25,0,25,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+254,2012-03-20,PRM La Liga,PRM La Liga,FC Barcelona,Granada,5-3,17,17,0,17,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+255,2012-03-20,PRM La Liga,PRM La Liga,FC Barcelona,Granada,5-3,67,67,0,67,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+256,2012-03-20,PRM La Liga,PRM La Liga,FC Barcelona,Granada,5-3,86,86,0,86,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+257,2012-03-24,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,0-2,25,25,0,25,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+258,2012-03-31,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-0,58,58,0,58,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+259,2012-04-03,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AC Milan,3-1,11,11,0,11,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+260,2012-04-03,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AC Milan,3-1,41,41,0,41,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+261,2012-04-07,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,1-4,39,39,0,39,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+262,2012-04-07,PRM La Liga,PRM La Liga,Real Zaragoza,FC Barcelona,1-4,86,86,0,86,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+263,2012-04-10,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,4-0,44,44,0,44,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+264,2012-04-14,PRM La Liga,PRM La Liga,Levante,FC Barcelona,1-2,64,64,0,64,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+265,2012-04-14,PRM La Liga,PRM La Liga,Levante,FC Barcelona,1-2,72,72,0,72,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+266,2012-04-29,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,0-7,16,16,0,16,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+267,2012-04-29,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,0-7,90,90,0,90,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+268,2012-05-02,PRM La Liga,PRM La Liga,FC Barcelona,Málaga,4-1,35,35,0,35,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+269,2012-05-02,PRM La Liga,PRM La Liga,FC Barcelona,Málaga,4-1,59,59,0,59,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+270,2012-05-02,PRM La Liga,PRM La Liga,FC Barcelona,Málaga,4-1,64,64,0,64,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+271,2012-05-05,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,4-0,12,12,0,12,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+272,2012-05-05,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,4-0,64,64,0,64,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+273,2012-05-05,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,4-0,74,74,0,74,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+274,2012-05-05,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,4-0,79,79,0,79,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+275,2012-05-25,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,0-3,20,20,0,20,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+276,2012-06-03,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Argentina,Ecuador,4-0,31,31,0,31,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+277,2012-06-09,FRN International friendly,FRN International friendly,Argentina,Brazil,4-3,31,31,0,31,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+278,2012-06-09,FRN International friendly,FRN International friendly,Argentina,Brazil,4-3,35,35,0,35,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+279,2012-06-09,FRN International friendly,FRN International friendly,Argentina,Brazil,4-3,85,85,0,85,Solo run,Left foot,0,0,https://www.messistats.com/en/locationsscored
+280,2012-08-15,FRN International friendly,FRN International friendly,Germany,Argentina,1-3,52,52,0,52,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+281,2012-08-19,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,5-1,11,11,0,11,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+282,2012-08-19,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,5-1,16,16,0,16,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+283,2012-08-23,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Real Madrid,3-2,70,70,0,70,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+284,2012-08-26,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,1-2,76,76,0,76,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+285,2012-08-26,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,1-2,80,80,0,80,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+286,2012-08-29,SUP Spanish Super Cup,SUP Spanish Super Cup,Real Madrid,FC Barcelona,2-1,45,45,0,45,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+287,2012-09-08,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Argentina,Paraguay,3-1,63,63,0,63,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+288,2012-09-15,PRM La Liga,PRM La Liga,Getafe,FC Barcelona,1-4,74,74,0,74,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+289,2012-09-15,PRM La Liga,PRM La Liga,Getafe,FC Barcelona,1-4,78,78,0,78,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+290,2012-09-19,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Spartak Moscow,3-2,71,71,0,71,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+291,2012-09-19,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Spartak Moscow,3-2,80,80,0,80,,Head,0,1,https://www.messistats.com/en/locationsscored
+292,2012-10-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,2-2,31,31,0,31,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+293,2012-10-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,2-2,61,61,0,61,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+294,2012-10-13,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Argentina,Uruguay,3-0,65,65,0,65,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+295,2012-10-13,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Argentina,Uruguay,3-0,80,80,0,80,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+296,2012-10-17,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Chile,Argentina,1-2,28,28,0,28,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+297,2012-10-20,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,4-5,18,18,0,18,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+298,2012-10-20,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,4-5,43,43,0,43,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+299,2012-10-20,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,4-5,77,77,0,77,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+300,2012-10-27,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,0-5,48,48,0,48,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+301,2012-10-27,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,0-5,89,89,0,89,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+302,2012-11-07,EUR UEFA Champions League,EUR UEFA Champions League,Celtic,FC Barcelona,2-1,90+1,90,1,91,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+303,2012-11-11,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,2-4,44,44,0,44,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+304,2012-11-11,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,2-4,70,70,0,70,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+305,2012-11-17,PRM La Liga,PRM La Liga,FC Barcelona,Real Zaragoza,3-1,16,16,0,16,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+306,2012-11-17,PRM La Liga,PRM La Liga,FC Barcelona,Real Zaragoza,3-1,60,60,0,60,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+307,2012-11-20,EUR UEFA Champions League,EUR UEFA Champions League,Spartak Moscow,FC Barcelona,0-3,27,27,0,27,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+308,2012-11-20,EUR UEFA Champions League,EUR UEFA Champions League,Spartak Moscow,FC Barcelona,0-3,39,39,0,39,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+309,2012-11-25,PRM La Liga,PRM La Liga,Levante,FC Barcelona,0-4,47,47,0,47,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+310,2012-11-25,PRM La Liga,PRM La Liga,Levante,FC Barcelona,0-4,52,52,0,52,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+311,2012-12-01,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,5-1,25,25,0,25,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+312,2012-12-01,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,5-1,70,70,0,70,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+313,2012-12-09,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,1-2,16,16,0,16,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+314,2012-12-09,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,1-2,25,25,0,25,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+315,2012-12-12,CUP Copa del Rey,CUP Copa del Rey,Córdoba,FC Barcelona,0-2,11,11,0,11,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+316,2012-12-12,CUP Copa del Rey,CUP Copa del Rey,Córdoba,FC Barcelona,0-2,74,74,0,74,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+317,2012-12-16,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,4-1,57,57,0,57,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+318,2012-12-16,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,4-1,88,88,0,88,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+319,2012-12-22,PRM La Liga,PRM La Liga,Real Valladolid,FC Barcelona,1-3,59,59,0,59,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+320,2013-01-06,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,4-0,29,29,0,29,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+321,2013-01-13,PRM La Liga,PRM La Liga,Málaga,FC Barcelona,1-3,27,27,0,27,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+322,2013-01-16,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Málaga,2-2,29,29,0,29,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+323,2013-01-19,PRM La Liga,PRM La Liga,Real Sociedad,FC Barcelona,3-2,7,7,0,7,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+324,2013-01-24,CUP Copa del Rey,CUP Copa del Rey,Málaga,FC Barcelona,2-4,80,80,0,80,,Head,0,1,https://www.messistats.com/en/locationsscored
+325,2013-01-27,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,5-1,11,11,0,11,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+326,2013-01-27,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,5-1,28,28,0,28,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+327,2013-01-27,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,5-1,56,56,0,56,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+328,2013-01-27,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,5-1,58,58,0,58,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+329,2013-02-03,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,1-1,39,39,0,39,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+330,2013-02-10,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,6-1,13,13,0,13,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+331,2013-02-16,PRM La Liga,PRM La Liga,Granada,FC Barcelona,1-2,50,50,0,50,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+332,2013-02-16,PRM La Liga,PRM La Liga,Granada,FC Barcelona,1-2,73,73,0,73,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+333,2013-02-23,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,2-1,60,60,0,60,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+334,2013-03-02,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,2-1,18,18,0,18,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+335,2013-03-09,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,2-0,88,88,0,88,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+336,2013-03-12,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AC Milan,4-0,5,5,0,5,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+337,2013-03-12,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AC Milan,4-0,39,39,0,39,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+338,2013-03-17,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,3-1,40,40,0,40,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+339,2013-03-17,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,3-1,57,57,0,57,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+340,2013-03-23,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Argentina,Venezuela,3-0,44,44,0,44,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+341,2013-03-30,PRM La Liga,PRM La Liga,Celta de Vigo,FC Barcelona,2-2,73,73,0,73,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+342,2013-04-02,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,FC Barcelona,2-2,38,38,0,38,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+343,2013-04-27,PRM La Liga,PRM La Liga,Athletic de Bilbao,FC Barcelona,2-2,67,67,0,67,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+344,2013-05-05,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,4-2,60,60,0,60,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+345,2013-05-05,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,4-2,71,71,0,71,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+346,2013-06-15,FRN International friendly,FRN International friendly,Guatemala,Argentina,0-4,15,15,0,15,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+347,2013-06-15,FRN International friendly,FRN International friendly,Guatemala,Argentina,0-4,40,40,0,40,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+348,2013-06-15,FRN International friendly,FRN International friendly,Guatemala,Argentina,0-4,49,49,0,49,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+349,2013-08-18,PRM La Liga,PRM La Liga,FC Barcelona,Levante,7-0,12,12,0,12,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+350,2013-08-18,PRM La Liga,PRM La Liga,FC Barcelona,Levante,7-0,42,42,0,42,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+351,2013-09-01,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,11,11,0,11,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+352,2013-09-01,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,39,39,0,39,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+353,2013-09-01,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,41,41,0,41,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+354,2013-09-11,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Paraguay,Argentina,2-5,12,12,0,12,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+355,2013-09-11,WCQ World Cup 2014 Qualification,WCQ World Cup 2014 Qualification,Paraguay,Argentina,2-5,52,52,0,52,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+356,2013-09-14,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,3-2,75,75,0,75,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+357,2013-09-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Ajax,4-0,22,22,0,22,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+358,2013-09-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Ajax,4-0,55,55,0,55,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+359,2013-09-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Ajax,4-0,75,75,0,75,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+360,2013-09-24,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,4-1,8,8,0,8,,Head,0,1,https://www.messistats.com/en/locationsscored
+361,2013-09-28,PRM La Liga,PRM La Liga,UD Almería,FC Barcelona,0-2,21,21,0,21,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+362,2013-10-22,EUR UEFA Champions League,EUR UEFA Champions League,AC Milan,FC Barcelona,1-1,23,23,0,23,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+363,2013-11-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AC Milan,3-1,30,30,0,30,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+364,2013-11-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AC Milan,3-1,83,83,0,83,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+365,2014-01-08,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Getafe,4-0,90,90,0,90,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+366,2014-01-08,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Getafe,4-0,90+3,90,3,93,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+367,2014-01-16,CUP Copa del Rey,CUP Copa del Rey,Getafe,FC Barcelona,0-2,44,44,0,44,Field goal,Hip,0,1,https://www.messistats.com/en/locationsscored
+368,2014-01-16,CUP Copa del Rey,CUP Copa del Rey,Getafe,FC Barcelona,0-2,63,63,0,63,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+369,2014-02-01,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,2-3,54,54,0,54,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+370,2014-02-09,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,1-4,44,44,0,44,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+371,2014-02-09,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,1-4,56,56,0,56,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+372,2014-02-12,CUP Copa del Rey,CUP Copa del Rey,Real Sociedad,FC Barcelona,1-1,27,27,0,27,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+373,2014-02-15,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,6-0,36,36,0,36,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+374,2014-02-15,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,6-0,68,68,0,68,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+375,2014-02-18,EUR UEFA Champions League,EUR UEFA Champions League,Manchester City,FC Barcelona,0-2,54,54,0,54,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+376,2014-02-22,PRM La Liga,PRM La Liga,Real Sociedad,FC Barcelona,3-1,36,36,0,36,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+377,2014-03-02,PRM La Liga,PRM La Liga,FC Barcelona,UD Almería,4-1,24,24,0,24,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+378,2014-03-12,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester City,2-1,67,67,0,67,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+379,2014-03-16,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,7-0,18,18,0,18,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+380,2014-03-16,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,7-0,63,63,0,63,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+381,2014-03-16,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,7-0,88,88,0,88,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+382,2014-03-23,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,3-4,42,42,0,42,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+383,2014-03-23,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,3-4,65,65,0,65,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+384,2014-03-23,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,3-4,84,84,0,84,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+385,2014-03-26,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,3-0,30,30,0,30,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+386,2014-03-29,PRM La Liga,PRM La Liga,Espanyol,FC Barcelona,0-1,77,77,0,77,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+387,2014-04-05,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,3-1,15,15,0,15,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+388,2014-04-05,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,3-1,86,86,0,86,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+389,2014-04-20,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-1,74,74,0,74,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+390,2014-04-27,PRM La Liga,PRM La Liga,Villarreal,FC Barcelona,2-3,83,83,0,83,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+391,2014-05-03,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,2-2,23,23,0,23,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+392,2014-06-07,FRN International friendly,FRN International friendly,Argentina,Slovenia,2-0,75,75,0,75,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+393,2014-06-16,WCP World Cup 2014,WCP World Cup 2014,Argentina,Bosnia-Herzegovina,2-1,65,65,0,65,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+394,2014-06-21,WCP World Cup 2014,WCP World Cup 2014,Argentina,Iran,1-0,90+1,90,1,91,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+395,2014-06-25,WCP World Cup 2014,WCP World Cup 2014,Nigeria,Argentina,2-3,3,3,0,3,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+396,2014-06-25,WCP World Cup 2014,WCP World Cup 2014,Nigeria,Argentina,2-3,45+1,45,1,46,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+397,2014-08-24,PRM La Liga,PRM La Liga,FC Barcelona,Elche,3-0,42,42,0,42,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+398,2014-08-24,PRM La Liga,PRM La Liga,FC Barcelona,Elche,3-0,63,63,0,63,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+399,2014-09-21,PRM La Liga,PRM La Liga,Levante,FC Barcelona,0-5,77,77,0,77,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+400,2014-09-27,PRM La Liga,PRM La Liga,FC Barcelona,Granada,6-0,62,62,0,62,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+401,2014-09-27,PRM La Liga,PRM La Liga,FC Barcelona,Granada,6-0,82,82,0,82,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+402,2014-09-30,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,FC Barcelona,3-2,11,11,0,11,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+403,2014-10-04,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,0-2,35,35,0,35,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+404,2014-10-14,FRN International friendly,FRN International friendly,Hong Kong,Argentina,0-7,66,66,0,66,,Left foot,0,0,https://www.messistats.com/en/locationsscored
+405,2014-10-14,FRN International friendly,FRN International friendly,Hong Kong,Argentina,0-7,84,84,0,84,Solo run,Left foot,0,0,https://www.messistats.com/en/locationsscored
+406,2014-10-18,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,3-0,74,74,0,74,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+407,2014-10-21,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Ajax,3-1,24,24,0,24,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+408,2014-11-05,EUR UEFA Champions League,EUR UEFA Champions League,Ajax,FC Barcelona,0-2,36,36,0,36,,Head,0,1,https://www.messistats.com/en/locationsscored
+409,2014-11-05,EUR UEFA Champions League,EUR UEFA Champions League,Ajax,FC Barcelona,0-2,76,76,0,76,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+410,2014-11-12,FRN International friendly,FRN International friendly,Argentina,Croatia,2-1,57,57,0,57,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+411,2014-11-22,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,5-1,21,21,0,21,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+412,2014-11-22,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,5-1,72,72,0,72,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+413,2014-11-22,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,5-1,78,78,0,78,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+414,2014-11-25,EUR UEFA Champions League,EUR UEFA Champions League,APOEL FC,FC Barcelona,0-4,38,38,0,38,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+415,2014-11-25,EUR UEFA Champions League,EUR UEFA Champions League,APOEL FC,FC Barcelona,0-4,58,58,0,58,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+416,2014-11-25,EUR UEFA Champions League,EUR UEFA Champions League,APOEL FC,FC Barcelona,0-4,87,87,0,87,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+417,2014-12-07,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-1,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+418,2014-12-07,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-1,50,50,0,50,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+419,2014-12-07,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-1,81,81,0,81,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+420,2014-12-10,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Paris Saint-Germain,3-1,19,19,0,19,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+421,2014-12-20,PRM La Liga,PRM La Liga,FC Barcelona,Córdoba,5-0,82,82,0,82,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+422,2014-12-20,PRM La Liga,PRM La Liga,FC Barcelona,Córdoba,5-0,90+1,90,1,91,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+423,2015-01-08,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Elche,5-0,45,45,0,45,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+424,2015-01-11,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,3-1,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+425,2015-01-18,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,0-4,10,10,0,10,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+426,2015-01-18,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,0-4,33,33,0,33,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+427,2015-01-18,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,0-4,62,62,0,62,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+428,2015-01-21,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Atlético Madrid,1-0,85,85,0,85,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+429,2015-01-24,PRM La Liga,PRM La Liga,Elche,FC Barcelona,0-6,55,55,0,55,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+430,2015-01-24,PRM La Liga,PRM La Liga,Elche,FC Barcelona,0-6,88,88,0,88,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+431,2015-02-01,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,3-2,55,55,0,55,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+432,2015-02-08,PRM La Liga,PRM La Liga,Athletic de Bilbao,FC Barcelona,2-5,15,15,0,15,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+433,2015-02-11,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Villarreal,3-1,41,41,0,41,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+434,2015-02-15,PRM La Liga,PRM La Liga,FC Barcelona,Levante,5-0,38,38,0,38,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+435,2015-02-15,PRM La Liga,PRM La Liga,FC Barcelona,Levante,5-0,59,59,0,59,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+436,2015-02-15,PRM La Liga,PRM La Liga,FC Barcelona,Levante,5-0,65,65,0,65,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+437,2015-02-28,PRM La Liga,PRM La Liga,Granada,FC Barcelona,1-3,70,70,0,70,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+438,2015-03-08,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,6-1,56,56,0,56,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+439,2015-03-08,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,6-1,63,63,0,63,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+440,2015-03-08,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,6-1,68,68,0,68,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+441,2015-03-14,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,0-2,31,31,0,31,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+442,2015-03-14,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,0-2,55,55,0,55,,Head,0,1,https://www.messistats.com/en/locationsscored
+443,2015-04-08,PRM La Liga,PRM La Liga,FC Barcelona,UD Almería,4-0,33,33,0,33,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+444,2015-04-11,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,2-2,14,14,0,14,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+445,2015-04-18,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,2-0,90+4,90,4,94,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+446,2015-04-25,PRM La Liga,PRM La Liga,Espanyol,FC Barcelona,0-2,25,25,0,25,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+447,2015-04-28,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,6-0,9,9,0,9,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+448,2015-04-28,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,6-0,47,47,0,47,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+449,2015-05-02,PRM La Liga,PRM La Liga,Córdoba,FC Barcelona,0-8,46,46,0,46,,Head,0,1,https://www.messistats.com/en/locationsscored
+450,2015-05-02,PRM La Liga,PRM La Liga,Córdoba,FC Barcelona,0-8,80,80,0,80,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+451,2015-05-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayern München,3-0,77,77,0,77,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+452,2015-05-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Bayern München,3-0,80,80,0,80,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+453,2015-05-17,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,0-1,65,65,0,65,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+454,2015-05-23,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,2-2,5,5,0,5,,Head,0,1,https://www.messistats.com/en/locationsscored
+455,2015-05-23,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,2-2,59,59,0,59,,Right foot,0,1,https://www.messistats.com/en/locationsscored
+456,2015-05-30,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,1-3,20,20,0,20,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+457,2015-05-30,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,1-3,74,74,0,74,,Left foot,0,1,https://www.messistats.com/en/locationsscored
+458,2015-06-13,CPA Copa América 2015,CPA Copa América 2015,Argentina,Paraguay,2-2,35,35,0,35,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+459,2015-08-11,IUP UEFA European Super Cup,IUP UEFA European Super Cup,FC Barcelona,Sevilla,5-4,7,7,0,7,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+460,2015-08-11,IUP UEFA European Super Cup,IUP UEFA European Super Cup,FC Barcelona,Sevilla,5-4,15,15,0,15,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+461,2015-08-17,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Athletic de Bilbao,1-1,43,43,0,43,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+462,2015-09-04,FRN International friendly,FRN International friendly,Argentina,Bolivia,7-0,66,66,0,66,Field goal,Head,0,0,https://www.messistats.com/en/locationsscored
+463,2015-09-04,FRN International friendly,FRN International friendly,Argentina,Bolivia,7-0,74,74,0,74,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+464,2015-09-08,FRN International friendly,FRN International friendly,Argentina,Mexico,2-2,88,88,0,88,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+465,2015-09-12,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,1-2,77,77,0,77,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+466,2015-09-20,PRM La Liga,PRM La Liga,FC Barcelona,Levante,4-1,61,61,0,61,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+467,2015-09-20,PRM La Liga,PRM La Liga,FC Barcelona,Levante,4-1,90,90,0,90,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+468,2015-11-24,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AS Roma,6-1,18,18,0,18,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+469,2015-11-24,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,AS Roma,6-1,59,59,0,59,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+470,2015-11-28,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,4-0,90+1,90,1,91,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+471,2015-12-09,EUR UEFA Champions League,EUR UEFA Champions League,Bayer Leverkusen,FC Barcelona,1-1,20,20,0,20,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+472,2015-12-12,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,2-2,39,39,0,39,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+473,2015-12-20,WCT FIFA Club World Cup,WCT FIFA Club World Cup,CA River Plate,FC Barcelona,0-3,36,36,0,36,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+474,2015-12-30,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,4-0,33,33,0,33,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+475,2016-01-06,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Espanyol,4-1,13,13,0,13,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+476,2016-01-06,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Espanyol,4-1,44,44,0,44,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+477,2016-01-09,PRM La Liga,PRM La Liga,FC Barcelona,Granada,4-0,8,8,0,8,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+478,2016-01-09,PRM La Liga,PRM La Liga,FC Barcelona,Granada,4-0,14,14,0,14,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+479,2016-01-09,PRM La Liga,PRM La Liga,FC Barcelona,Granada,4-0,58,58,0,58,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+480,2016-01-17,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,6-0,7,7,0,7,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+481,2016-01-23,PRM La Liga,PRM La Liga,Málaga,FC Barcelona,1-2,51,51,0,51,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+482,2016-01-30,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,2-1,30,30,0,30,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+483,2016-02-03,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Valencia,7-0,29,29,0,29,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+484,2016-02-03,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Valencia,7-0,58,58,0,58,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+485,2016-02-03,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Valencia,7-0,74,74,0,74,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+486,2016-02-14,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,6-1,28,28,0,28,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+487,2016-02-17,PRM La Liga,PRM La Liga,Sporting Gijón,FC Barcelona,1-3,25,25,0,25,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+488,2016-02-17,PRM La Liga,PRM La Liga,Sporting Gijón,FC Barcelona,1-3,31,31,0,31,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+489,2016-02-23,EUR UEFA Champions League,EUR UEFA Champions League,Arsenal,FC Barcelona,0-2,71,71,0,71,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+490,2016-02-23,EUR UEFA Champions League,EUR UEFA Champions League,Arsenal,FC Barcelona,0-2,83,83,0,83,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+491,2016-02-28,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,2-1,31,31,0,31,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+492,2016-03-03,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,1-5,23,23,0,23,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+493,2016-03-03,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,1-5,54,54,0,54,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+494,2016-03-03,PRM La Liga,PRM La Liga,Rayo Vallecano,FC Barcelona,1-5,72,72,0,72,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+495,2016-03-06,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,0-4,41,41,0,41,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+496,2016-03-06,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,0-4,76,76,0,76,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+497,2016-03-12,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,6-0,40,40,0,40,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+498,2016-03-16,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Arsenal,3-1,88,88,0,88,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+499,2016-03-29,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Argentina,Bolivia,2-0,30,30,0,30,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+500,2016-04-17,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,1-2,63,63,0,63,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+501,2016-04-20,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,0-8,73,73,0,73,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+502,2016-04-23,PRM La Liga,PRM La Liga,FC Barcelona,Sporting Gijón,6-0,12,12,0,12,Rebound,Head,0,1,https://www.messistats.com/en/locationsscored
+503,2016-05-08,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-0,8,8,0,8,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+504,2016-06-10,CPA Copa América Centenario,CPA Copa América Centenario,Argentina,Panama,5-0,68,68,0,68,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+505,2016-06-10,CPA Copa América Centenario,CPA Copa América Centenario,Argentina,Panama,5-0,78,78,0,78,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+506,2016-06-10,CPA Copa América Centenario,CPA Copa América Centenario,Argentina,Panama,5-0,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+507,2016-06-18,CPA Copa América Centenario,CPA Copa América Centenario,Argentina,Venezuela,4-1,60,60,0,60,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+508,2016-06-21,CPA Copa América Centenario,CPA Copa América Centenario,United States,Argentina,0-4,32,32,0,32,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+509,2016-08-17,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Sevilla,3-0,55,55,0,55,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+510,2016-08-20,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,6-2,37,37,0,37,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+511,2016-08-20,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,6-2,57,57,0,57,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+512,2016-09-01,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Argentina,Uruguay,1-0,43,43,0,43,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+513,2016-09-13,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Celtic,7-0,3,3,0,3,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+514,2016-09-13,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Celtic,7-0,27,27,0,27,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+515,2016-09-13,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Celtic,7-0,60,60,0,60,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+516,2016-09-17,PRM La Liga,PRM La Liga,Leganés,FC Barcelona,1-5,15,15,0,15,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+517,2016-09-17,PRM La Liga,PRM La Liga,Leganés,FC Barcelona,1-5,55,55,0,55,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+518,2016-10-15,PRM La Liga,PRM La Liga,FC Barcelona,Deportivo La Coruña,4-0,58,58,0,58,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+519,2016-10-19,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester City,4-0,17,17,0,17,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+520,2016-10-19,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester City,4-0,61,61,0,61,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+521,2016-10-19,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester City,4-0,69,69,0,69,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+522,2016-10-22,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,22,22,0,22,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+523,2016-10-22,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,90+4,90,4,94,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+524,2016-11-01,EUR UEFA Champions League,EUR UEFA Champions League,Manchester City,FC Barcelona,3-1,21,21,0,21,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+525,2016-11-06,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,1-2,43,43,0,43,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+526,2016-11-15,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Argentina,Colombia,3-0,10,10,0,10,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+527,2016-11-23,EUR UEFA Champions League,EUR UEFA Champions League,Celtic,FC Barcelona,0-2,24,24,0,24,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+528,2016-11-23,EUR UEFA Champions League,EUR UEFA Champions League,Celtic,FC Barcelona,0-2,55,55,0,55,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+529,2016-11-27,PRM La Liga,PRM La Liga,Real Sociedad,FC Barcelona,1-1,59,59,0,59,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+530,2016-12-06,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Borussia Mönchengladbach,4-0,16,16,0,16,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+531,2016-12-10,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,0-3,72,72,0,72,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+532,2016-12-10,PRM La Liga,PRM La Liga,Osasuna,FC Barcelona,0-3,90+2,90,2,92,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+533,2016-12-18,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,4-1,90,90,0,90,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+534,2017-01-05,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,2-1,52,52,0,52,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+535,2017-01-08,PRM La Liga,PRM La Liga,Villarreal,FC Barcelona,1-1,90,90,0,90,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+536,2017-01-11,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Athletic de Bilbao,3-1,78,78,0,78,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+537,2017-01-14,PRM La Liga,PRM La Liga,FC Barcelona,Las Palmas,5-0,52,52,0,52,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+538,2017-01-22,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,0-4,50,50,0,50,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+539,2017-01-26,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Real Sociedad,5-2,55,55,0,55,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+540,2017-02-01,CUP Copa del Rey,CUP Copa del Rey,Atlético Madrid,FC Barcelona,1-2,33,33,0,33,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+541,2017-02-04,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,3-0,40,40,0,40,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+542,2017-02-11,PRM La Liga,PRM La Liga,Alavés,FC Barcelona,0-6,59,59,0,59,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+543,2017-02-19,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,2-1,4,4,0,4,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+544,2017-02-19,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,2-1,89,89,0,89,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+545,2017-02-26,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,1-2,87,87,0,87,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+546,2017-03-01,PRM La Liga,PRM La Liga,FC Barcelona,Sporting Gijón,6-1,9,9,0,9,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+547,2017-03-04,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,5-0,24,24,0,24,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+548,2017-03-04,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,5-0,64,64,0,64,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+549,2017-03-08,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Paris Saint-Germain,6-1,50,50,0,50,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+550,2017-03-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,4-2,45,45,0,45,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+551,2017-03-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,4-2,53,53,0,53,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+552,2017-03-23,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Argentina,Chile,1-0,16,16,0,16,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+553,2017-04-05,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,3-0,28,28,0,28,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+554,2017-04-05,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,3-0,33,33,0,33,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+555,2017-04-15,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,3-2,17,17,0,17,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+556,2017-04-15,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,3-2,37,37,0,37,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+557,2017-04-23,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,2-3,33,33,0,33,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+558,2017-04-23,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,2-3,90+2,90,2,92,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+559,2017-04-26,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,7-1,12,12,0,12,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+560,2017-04-26,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,7-1,61,61,0,61,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+561,2017-05-06,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,4-1,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+562,2017-05-06,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,4-1,82,82,0,82,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+563,2017-05-21,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,4-2,76,76,0,76,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+564,2017-05-21,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,4-2,90+2,90,2,92,Solo run,Right foot,0,1,https://www.messistats.com/en/locationsscored
+565,2017-05-27,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Alavés,3-1,30,30,0,30,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+566,2017-08-13,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Real Madrid,1-3,76,76,0,76,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+567,2017-08-26,PRM La Liga,PRM La Liga,Alavés,FC Barcelona,0-2,55,55,0,55,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+568,2017-08-26,PRM La Liga,PRM La Liga,Alavés,FC Barcelona,0-2,66,66,0,66,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+569,2017-09-09,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-0,26,26,0,26,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+570,2017-09-09,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-0,35,35,0,35,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+571,2017-09-09,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,5-0,67,67,0,67,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+572,2017-09-12,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Juventus,3-0,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+573,2017-09-12,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Juventus,3-0,69,69,0,69,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+574,2017-09-19,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,6-1,20,20,0,20,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+575,2017-09-19,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,6-1,59,59,0,59,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+576,2017-09-19,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,6-1,62,62,0,62,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+577,2017-09-19,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,6-1,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+578,2017-10-01,PRM La Liga,PRM La Liga,FC Barcelona,Las Palmas,3-0,71,71,0,71,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+579,2017-10-01,PRM La Liga,PRM La Liga,FC Barcelona,Las Palmas,3-0,77,77,0,77,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+580,2017-10-10,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Ecuador,Argentina,1-3,12,12,0,12,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+581,2017-10-10,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Ecuador,Argentina,1-3,20,20,0,20,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+582,2017-10-10,WCQ World Cup 2018 Qualification,WCQ World Cup 2018 Qualification,Ecuador,Argentina,1-3,63,63,0,63,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+583,2017-10-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Olympiacos,3-1,61,61,0,61,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+584,2017-10-28,PRM La Liga,PRM La Liga,Athletic de Bilbao,FC Barcelona,0-2,36,36,0,36,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+585,2017-12-02,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,2-2,22,22,0,22,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+586,2017-12-10,PRM La Liga,PRM La Liga,Villarreal,FC Barcelona,0-2,83,83,0,83,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+587,2017-12-23,PRM La Liga,PRM La Liga,Real Madrid,FC Barcelona,0-3,64,64,0,64,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+588,2018-01-07,PRM La Liga,PRM La Liga,FC Barcelona,Levante,3-0,12,12,0,12,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+589,2018-01-11,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Celta de Vigo,5-0,13,13,0,13,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+590,2018-01-11,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Celta de Vigo,5-0,15,15,0,15,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+591,2018-01-14,PRM La Liga,PRM La Liga,Real Sociedad,FC Barcelona,2-4,85,85,0,85,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+592,2018-01-21,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,0-5,64,64,0,64,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+593,2018-01-21,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,0-5,80,80,0,80,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+594,2018-01-25,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Espanyol,2-0,25,25,0,25,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+595,2018-01-28,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,2-1,84,84,0,84,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+596,2018-02-20,EUR UEFA Champions League,EUR UEFA Champions League,Chelsea,FC Barcelona,1-1,75,75,0,75,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+597,2018-02-24,PRM La Liga,PRM La Liga,FC Barcelona,Girona,6-1,30,30,0,30,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+598,2018-02-24,PRM La Liga,PRM La Liga,FC Barcelona,Girona,6-1,36,36,0,36,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+599,2018-03-01,PRM La Liga,PRM La Liga,Las Palmas,FC Barcelona,1-1,21,21,0,21,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+600,2018-03-04,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,1-0,26,26,0,26,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+601,2018-03-14,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Chelsea,3-0,3,3,0,3,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+602,2018-03-14,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Chelsea,3-0,63,63,0,63,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+603,2018-03-18,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-0,30,30,0,30,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+604,2018-03-31,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,2-2,89,89,0,89,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+605,2018-04-07,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,3-1,27,27,0,27,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+606,2018-04-07,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,3-1,32,32,0,32,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+607,2018-04-07,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,3-1,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+608,2018-04-21,CUP Copa del Rey,CUP Copa del Rey,Sevilla,FC Barcelona,0-5,31,31,0,31,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+609,2018-04-29,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,2-4,38,38,0,38,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+610,2018-04-29,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,2-4,82,82,0,82,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+611,2018-04-29,PRM La Liga,PRM La Liga,Deportivo La Coruña,FC Barcelona,2-4,85,85,0,85,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+612,2018-05-06,PRM La Liga,PRM La Liga,FC Barcelona,Real Madrid,2-2,52,52,0,52,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+613,2018-05-09,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,5-1,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+614,2018-05-29,FRN International friendly,FRN International friendly,Argentina,Haiti,4-0,17,17,0,17,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+615,2018-05-29,FRN International friendly,FRN International friendly,Argentina,Haiti,4-0,58,58,0,58,Rebound,Right foot,0,0,https://www.messistats.com/en/locationsscored
+616,2018-05-29,FRN International friendly,FRN International friendly,Argentina,Haiti,4-0,66,66,0,66,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+617,2018-06-26,WCP World Cup 2018,WCP World Cup 2018,Nigeria,Argentina,1-2,14,14,0,14,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+618,2018-08-18,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,3-0,64,64,0,64,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+619,2018-08-18,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,3-0,90+2,90,2,92,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+620,2018-09-02,PRM La Liga,PRM La Liga,FC Barcelona,Huesca,8-2,16,16,0,16,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+621,2018-09-02,PRM La Liga,PRM La Liga,FC Barcelona,Huesca,8-2,61,61,0,61,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+622,2018-09-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,PSV Eindhoven,4-0,32,32,0,32,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+623,2018-09-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,PSV Eindhoven,4-0,77,77,0,77,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+624,2018-09-18,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,PSV Eindhoven,4-0,87,87,0,87,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+625,2018-09-23,PRM La Liga,PRM La Liga,FC Barcelona,Girona,2-2,19,19,0,19,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+626,2018-10-03,EUR UEFA Champions League,EUR UEFA Champions League,Tottenham Hotspur F.C.,FC Barcelona,2-4,56,56,0,56,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+627,2018-10-03,EUR UEFA Champions League,EUR UEFA Champions League,Tottenham Hotspur F.C.,FC Barcelona,2-4,90,90,0,90,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+628,2018-10-07,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,1-1,23,23,0,23,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+629,2018-10-20,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,4-2,12,12,0,12,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+630,2018-11-11,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,3-4,68,68,0,68,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+631,2018-11-11,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,3-4,90+2,90,2,92,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+632,2018-11-28,EUR UEFA Champions League,EUR UEFA Champions League,PSV Eindhoven,FC Barcelona,1-2,61,61,0,61,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+633,2018-12-08,PRM La Liga,PRM La Liga,Espanyol,FC Barcelona,0-4,18,18,0,18,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+634,2018-12-08,PRM La Liga,PRM La Liga,Espanyol,FC Barcelona,0-4,65,65,0,65,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+635,2018-12-16,PRM La Liga,PRM La Liga,Levante,FC Barcelona,0-5,43,43,0,43,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+636,2018-12-16,PRM La Liga,PRM La Liga,Levante,FC Barcelona,0-5,47,47,0,47,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+637,2018-12-16,PRM La Liga,PRM La Liga,Levante,FC Barcelona,0-5,60,60,0,60,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+638,2018-12-22,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,2-0,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+639,2019-01-06,PRM La Liga,PRM La Liga,Getafe,FC Barcelona,1-2,20,20,0,20,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+640,2019-01-13,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,3-0,53,53,0,53,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+641,2019-01-17,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Levante,3-0,54,54,0,54,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+642,2019-01-20,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,3-1,90+2,90,2,92,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+643,2019-01-27,PRM La Liga,PRM La Liga,Girona,FC Barcelona,0-2,68,68,0,68,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+644,2019-01-30,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Sevilla,6-1,90+2,90,2,92,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+645,2019-02-02,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,2-2,39,39,0,39,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+646,2019-02-02,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,2-2,64,64,0,64,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+647,2019-02-16,PRM La Liga,PRM La Liga,FC Barcelona,Real Valladolid,1-0,43,43,0,43,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+648,2019-02-23,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,2-4,26,26,0,26,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+649,2019-02-23,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,2-4,67,67,0,67,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+650,2019-02-23,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,2-4,85,85,0,85,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+651,2019-03-09,PRM La Liga,PRM La Liga,FC Barcelona,Rayo Vallecano,3-1,51,51,0,51,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+652,2019-03-13,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Olympique Lyonnais,5-1,18,18,0,18,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+653,2019-03-13,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Olympique Lyonnais,5-1,78,78,0,78,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+654,2019-03-17,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,1-4,18,18,0,18,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+655,2019-03-17,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,1-4,45+2,45,2,47,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+656,2019-03-17,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,1-4,85,85,0,85,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+657,2019-03-30,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,2-0,71,71,0,71,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+658,2019-03-30,PRM La Liga,PRM La Liga,FC Barcelona,Espanyol,2-0,89,89,0,89,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+659,2019-04-02,PRM La Liga,PRM La Liga,Villarreal,FC Barcelona,4-4,90+1,90,1,91,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+660,2019-04-06,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,2-0,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+661,2019-04-16,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester United,3-0,16,16,0,16,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+662,2019-04-16,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Manchester United,3-0,20,20,0,20,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+663,2019-04-27,PRM La Liga,PRM La Liga,FC Barcelona,Levante,1-0,62,62,0,62,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+664,2019-05-01,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Liverpool,3-0,75,75,0,75,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+665,2019-05-01,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Liverpool,3-0,82,82,0,82,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+666,2019-05-19,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,2-2,31,31,0,31,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+667,2019-05-19,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,2-2,32,32,0,32,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+668,2019-05-25,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Valencia,1-2,73,73,0,73,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+669,2019-06-08,FRN International friendly,FRN International friendly,Argentina,Nicaragua,5-1,37,37,0,37,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+670,2019-06-08,FRN International friendly,FRN International friendly,Argentina,Nicaragua,5-1,38,38,0,38,Rebound,Left foot,0,0,https://www.messistats.com/en/locationsscored
+671,2019-06-19,CPA Copa América 2019,CPA Copa América 2019,Argentina,Paraguay,1-1,57,57,0,57,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+672,2019-10-06,PRM La Liga,PRM La Liga,FC Barcelona,Sevilla,4-0,78,78,0,78,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+673,2019-10-19,PRM La Liga,PRM La Liga,Eibar,FC Barcelona,0-3,58,58,0,58,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+674,2019-10-23,EUR UEFA Champions League,EUR UEFA Champions League,Slavia Prague,FC Barcelona,1-2,3,3,0,3,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+675,2019-10-29,PRM La Liga,PRM La Liga,FC Barcelona,Real Valladolid,5-1,34,34,0,34,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+676,2019-10-29,PRM La Liga,PRM La Liga,FC Barcelona,Real Valladolid,5-1,75,75,0,75,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+677,2019-11-02,PRM La Liga,PRM La Liga,Levante,FC Barcelona,3-1,38,38,0,38,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+678,2019-11-09,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,4-1,23,23,0,23,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+679,2019-11-09,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,4-1,45,45,0,45,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+680,2019-11-09,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,4-1,48,48,0,48,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+681,2019-11-15,FRN International friendly,FRN International friendly,Brazil,Argentina,0-1,13,13,0,13,Rebound,Left foot,0,0,https://www.messistats.com/en/locationsscored
+682,2019-11-18,FRN International friendly,FRN International friendly,Argentina,Uruguay,2-2,90+2,90,2,92,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+683,2019-11-27,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Borussia Dortmund,3-1,33,33,0,33,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+684,2019-12-01,PRM La Liga,PRM La Liga,Atlético Madrid,FC Barcelona,0-1,86,86,0,86,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+685,2019-12-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,5-2,17,17,0,17,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+686,2019-12-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,5-2,41,41,0,41,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+687,2019-12-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Mallorca,5-2,83,83,0,83,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+688,2019-12-21,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,4-1,69,69,0,69,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+689,2020-01-09,SUP Spanish Super Cup,SUP Spanish Super Cup,FC Barcelona,Atlético Madrid,2-3,51,51,0,51,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+690,2020-01-19,PRM La Liga,PRM La Liga,FC Barcelona,Granada,1-0,76,76,0,76,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+691,2020-01-30,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Leganés,5-0,59,59,0,59,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+692,2020-01-30,CUP Copa del Rey,CUP Copa del Rey,FC Barcelona,Leganés,5-0,89,89,0,89,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+693,2020-02-22,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,5-0,14,14,0,14,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+694,2020-02-22,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,5-0,37,37,0,37,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+695,2020-02-22,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,5-0,40,40,0,40,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+696,2020-02-22,PRM La Liga,PRM La Liga,FC Barcelona,Eibar,5-0,87,87,0,87,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+697,2020-03-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Sociedad,1-0,81,81,0,81,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+698,2020-06-13,PRM La Liga,PRM La Liga,Real Mallorca,FC Barcelona,0-4,90+3,90,3,93,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+699,2020-06-16,PRM La Liga,PRM La Liga,FC Barcelona,Leganés,2-0,69,69,0,69,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+700,2020-06-30,PRM La Liga,PRM La Liga,FC Barcelona,Atlético Madrid,2-2,50,50,0,50,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+701,2020-07-16,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,1-2,62,62,0,62,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+702,2020-07-19,PRM La Liga,PRM La Liga,Alavés,FC Barcelona,0-5,34,34,0,34,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+703,2020-07-19,PRM La Liga,PRM La Liga,Alavés,FC Barcelona,0-5,75,75,0,75,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+704,2020-08-08,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Napoli,3-1,23,23,0,23,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+705,2020-09-27,PRM La Liga,PRM La Liga,FC Barcelona,Villarreal,4-0,35,35,0,35,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+706,2020-10-09,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Ecuador,1-0,13,13,0,13,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+707,2020-10-20,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Ferencváros,5-1,27,27,0,27,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+708,2020-10-28,EUR UEFA Champions League,EUR UEFA Champions League,Juventus,FC Barcelona,0-2,90+1,90,1,91,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+709,2020-11-04,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Dynamo Kyiv,2-1,5,5,0,5,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+710,2020-11-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,5-2,61,61,0,61,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+711,2020-11-07,PRM La Liga,PRM La Liga,FC Barcelona,Real Betis,5-2,82,82,0,82,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+712,2020-11-29,PRM La Liga,PRM La Liga,FC Barcelona,Osasuna,4-0,73,73,0,73,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+713,2020-12-13,PRM La Liga,PRM La Liga,FC Barcelona,Levante,1-0,76,76,0,76,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+714,2020-12-19,PRM La Liga,PRM La Liga,FC Barcelona,Valencia,2-2,45+4,45,4,49,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+715,2020-12-22,PRM La Liga,PRM La Liga,Real Valladolid,FC Barcelona,0-3,65,65,0,65,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+716,2021-01-06,PRM La Liga,PRM La Liga,Athletic de Bilbao,FC Barcelona,2-3,38,38,0,38,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+717,2021-01-06,PRM La Liga,PRM La Liga,Athletic de Bilbao,FC Barcelona,2-3,62,62,0,62,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+718,2021-01-09,PRM La Liga,PRM La Liga,Granada,FC Barcelona,0-4,35,35,0,35,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+719,2021-01-09,PRM La Liga,PRM La Liga,Granada,FC Barcelona,0-4,42,42,0,42,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+720,2021-01-27,CUP Copa del Rey,CUP Copa del Rey,Rayo Vallecano,FC Barcelona,1-2,70,70,0,70,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+721,2021-01-31,PRM La Liga,PRM La Liga,FC Barcelona,Athletic de Bilbao,2-1,20,20,0,20,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+722,2021-02-07,PRM La Liga,PRM La Liga,Real Betis,FC Barcelona,2-3,60,60,0,60,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+723,2021-02-13,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,5-1,45+1,45,1,46,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+724,2021-02-13,PRM La Liga,PRM La Liga,FC Barcelona,Alavés,5-1,75,75,0,75,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+725,2021-02-16,EUR UEFA Champions League,EUR UEFA Champions League,FC Barcelona,Paris Saint-Germain,1-4,28,28,0,28,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+726,2021-02-21,PRM La Liga,PRM La Liga,FC Barcelona,Cádiz,1-1,32,32,0,32,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+727,2021-02-24,PRM La Liga,PRM La Liga,FC Barcelona,Elche,3-0,48,48,0,48,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+728,2021-02-24,PRM La Liga,PRM La Liga,FC Barcelona,Elche,3-0,68,68,0,68,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+729,2021-02-27,PRM La Liga,PRM La Liga,Sevilla,FC Barcelona,0-2,85,85,0,85,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+730,2021-03-10,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,FC Barcelona,1-1,37,37,0,37,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+731,2021-03-15,PRM La Liga,PRM La Liga,FC Barcelona,Huesca,4-1,13,13,0,13,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+732,2021-03-15,PRM La Liga,PRM La Liga,FC Barcelona,Huesca,4-1,90,90,0,90,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+733,2021-03-21,PRM La Liga,PRM La Liga,Real Sociedad,FC Barcelona,1-6,57,57,0,57,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+734,2021-03-21,PRM La Liga,PRM La Liga,Real Sociedad,FC Barcelona,1-6,89,89,0,89,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+735,2021-04-17,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,0-4,68,68,0,68,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+736,2021-04-17,CUP Copa del Rey,CUP Copa del Rey,Athletic de Bilbao,FC Barcelona,0-4,72,72,0,72,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+737,2021-04-22,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,5-2,8,8,0,8,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+738,2021-04-22,PRM La Liga,PRM La Liga,FC Barcelona,Getafe,5-2,33,33,0,33,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+739,2021-04-29,PRM La Liga,PRM La Liga,FC Barcelona,Granada,1-2,23,23,0,23,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+740,2021-05-02,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,57,57,0,57,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+741,2021-05-02,PRM La Liga,PRM La Liga,Valencia,FC Barcelona,2-3,69,69,0,69,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+742,2021-05-11,PRM La Liga,PRM La Liga,Levante,FC Barcelona,3-3,25,25,0,25,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+743,2021-05-16,PRM La Liga,PRM La Liga,FC Barcelona,Celta de Vigo,1-2,28,28,0,28,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+744,2021-06-04,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Chile,1-1,23,23,0,23,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+745,2021-06-14,CPA Copa América 2021,CPA Copa América 2021,Argentina,Chile,1-1,33,33,0,33,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+746,2021-06-28,CPA Copa América 2021,CPA Copa América 2021,Bolivia,Argentina,1-4,33,33,0,33,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+747,2021-06-28,CPA Copa América 2021,CPA Copa América 2021,Bolivia,Argentina,1-4,42,42,0,42,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+748,2021-07-03,CPA Copa América 2021,CPA Copa América 2021,Argentina,Ecuador,3-0,90+3,90,3,93,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+749,2021-09-09,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Bolivia,3-0,14,14,0,14,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+750,2021-09-09,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Bolivia,3-0,64,64,0,64,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+751,2021-09-09,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Bolivia,3-0,88,88,0,88,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+752,2021-09-28,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,Manchester City,2-0,74,74,0,74,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+753,2021-10-10,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Uruguay,3-0,38,38,0,38,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+754,2021-10-19,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,RB Leipzig,3-2,67,67,0,67,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+755,2021-10-19,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,RB Leipzig,3-2,74,74,0,74,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+756,2021-11-20,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,FC Nantes,3-1,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+757,2021-12-07,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,Club Brugge,4-1,38,38,0,38,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+758,2021-12-07,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,Club Brugge,4-1,76,76,0,76,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+759,2022-02-06,PRM Ligue 1,PRM Ligue 1,Lille OSC,Paris Saint-Germain,1-5,38,38,0,38,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+760,2022-03-26,WCQ World Cup 2022 Qualification,WCQ World Cup 2022 Qualification,Argentina,Venezuela,3-0,82,82,0,82,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+761,2022-04-03,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,FC Lorient,5-1,73,73,0,73,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+762,2022-04-23,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,RC Lens,1-1,68,68,0,68,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+763,2022-05-14,PRM Ligue 1,PRM Ligue 1,Montpellier Hérault SC,Paris Saint-Germain,0-4,6,6,0,6,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+764,2022-05-14,PRM Ligue 1,PRM Ligue 1,Montpellier Hérault SC,Paris Saint-Germain,0-4,20,20,0,20,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+765,2022-06-05,FRN International friendly,FRN International friendly,Argentina,Estonia,5-0,8,8,0,8,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+766,2022-06-05,FRN International friendly,FRN International friendly,Argentina,Estonia,5-0,45,45,0,45,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+767,2022-06-05,FRN International friendly,FRN International friendly,Argentina,Estonia,5-0,47,47,0,47,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+768,2022-06-05,FRN International friendly,FRN International friendly,Argentina,Estonia,5-0,71,71,0,71,Field goal,Right foot,0,0,https://www.messistats.com/en/locationsscored
+769,2022-06-05,FRN International friendly,FRN International friendly,Argentina,Estonia,5-0,76,76,0,76,Rebound,Left foot,0,0,https://www.messistats.com/en/locationsscored
+770,2022-07-31,SUP Trophée des Champions,SUP Trophée des Champions,Paris Saint-Germain,FC Nantes,4-0,22,22,0,22,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+771,2022-08-06,PRM Ligue 1,PRM Ligue 1,Clermont Foot 63,Paris Saint-Germain,0-5,80,80,0,80,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+772,2022-08-06,PRM Ligue 1,PRM Ligue 1,Clermont Foot 63,Paris Saint-Germain,0-5,86,86,0,86,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+773,2022-08-21,PRM Ligue 1,PRM Ligue 1,Lille OSC,Paris Saint-Germain,1-7,28,28,0,28,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+774,2022-09-14,EUR UEFA Champions League,EUR UEFA Champions League,Maccabi Haifa,Paris Saint-Germain,1-3,37,37,0,37,Rebound,Left foot,0,1,https://www.messistats.com/en/locationsscored
+775,2022-09-18,PRM Ligue 1,PRM Ligue 1,Olympique Lyonnais,Paris Saint-Germain,0-1,5,5,0,5,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+776,2022-09-23,FRN International friendly,FRN International friendly,Argentina,Honduras,3-0,45+2,45,2,47,Penalty,Left foot,1,0,https://www.messistats.com/en/locationsscored
+777,2022-09-23,FRN International friendly,FRN International friendly,Argentina,Honduras,3-0,69,69,0,69,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+778,2022-09-27,FRN International friendly,FRN International friendly,Argentina,Jamaica,3-0,87,87,0,87,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+779,2022-09-27,FRN International friendly,FRN International friendly,Argentina,Jamaica,3-0,89,89,0,89,Free kick,Left foot,0,0,https://www.messistats.com/en/locationsscored
+780,2022-10-01,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,OGC Nice,2-1,29,29,0,29,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+781,2022-10-05,EUR UEFA Champions League,EUR UEFA Champions League,Benfica,Paris Saint-Germain,1-1,22,22,0,22,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+782,2022-10-21,PRM Ligue 1,PRM Ligue 1,AC Ajaccio,Paris Saint-Germain,0-3,78,78,0,78,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+783,2022-10-25,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,Maccabi Haifa,7-2,19,19,0,19,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+784,2022-10-25,EUR UEFA Champions League,EUR UEFA Champions League,Paris Saint-Germain,Maccabi Haifa,7-2,44,44,0,44,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+785,2022-10-29,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,ES Troyes AC,4-3,55,55,0,55,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+786,2022-11-16,FRN International friendly,FRN International friendly,United Arab Emirates,Argentina,0-5,44,44,0,44,Field goal,Right foot,0,0,https://www.messistats.com/en/locationsscored
+787,2022-11-22,WCP World Cup 2022,WCP World Cup 2022,Argentina,Saudi Arabia,1-2,10,10,0,10,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+788,2022-11-26,WCP World Cup 2022,WCP World Cup 2022,Argentina,Mexico,2-0,64,64,0,64,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+789,2022-12-03,WCP World Cup 2022,WCP World Cup 2022,Argentina,Australia,2-1,35,35,0,35,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+790,2022-12-09,WCP World Cup 2022,WCP World Cup 2022,Netherlands,Argentina,2-2,73,73,0,73,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+791,2022-12-13,WCP World Cup 2022,WCP World Cup 2022,Argentina,Croatia,3-0,34,34,0,34,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+793,2022-12-18,WCP World Cup 2022,WCP World Cup 2022,Argentina,France,3-3,23,23,0,23,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+792,2022-12-18,WCP World Cup 2022,WCP World Cup 2022,Argentina,France,3-3,109,109,0,109,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+794,2023-01-11,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,Angers SCO,2-0,72,72,0,72,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+795,2023-02-01,PRM Ligue 1,PRM Ligue 1,Montpellier Hérault SC,Paris Saint-Germain,1-3,72,72,0,72,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+796,2023-02-04,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,Toulouse FC,2-1,58,58,0,58,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+797,2023-02-19,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,Lille OSC,4-3,90+4,90,4,94,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+798,2023-02-26,PRM Ligue 1,PRM Ligue 1,Olympique Marseille,Paris Saint-Germain,0-3,29,29,0,29,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+799,2023-03-04,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,FC Nantes,4-2,12,12,0,12,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+800,2023-03-24,FRN International friendly,FRN International friendly,Argentina,Panama,2-0,89,89,0,89,Free kick,Left foot,0,0,https://www.messistats.com/en/locationsscored
+801,2023-03-28,FRN International friendly,FRN International friendly,Argentina,Curaçao,7-0,20,20,0,20,Field goal,Right foot,0,0,https://www.messistats.com/en/locationsscored
+802,2023-03-28,FRN International friendly,FRN International friendly,Argentina,Curaçao,7-0,33,33,0,33,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+803,2023-03-28,FRN International friendly,FRN International friendly,Argentina,Curaçao,7-0,37,37,0,37,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+804,2023-04-08,PRM Ligue 1,PRM Ligue 1,OGC Nice,Paris Saint-Germain,0-2,26,26,0,26,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+805,2023-04-15,PRM Ligue 1,PRM Ligue 1,Paris Saint-Germain,RC Lens,3-1,40,40,0,40,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+806,2023-05-27,PRM Ligue 1,PRM Ligue 1,RC Strasbourg Alsace,Paris Saint-Germain,1-1,59,59,0,59,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+807,2023-06-15,FRN International friendly,FRN International friendly,Argentina,Australia,2-0,2,2,0,2,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+808,2023-07-22,NAM Leagues Cup,NAM Leagues Cup,Cruz Azul,Inter Miami CF,1-2,90+4,90,4,94,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+809,2023-07-25,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Atlanta United FC,4-0,8,8,0,8,Rebound,Right foot,0,1,https://www.messistats.com/en/locationsscored
+810,2023-07-25,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Atlanta United FC,4-0,22,22,0,22,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+811,2023-08-02,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Orlando City,3-1,7,7,0,7,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+812,2023-08-02,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Orlando City,3-1,72,72,0,72,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+813,2023-08-06,NAM Leagues Cup,NAM Leagues Cup,FC Dallas,Inter Miami CF,4-4,6,6,0,6,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+814,2023-08-06,NAM Leagues Cup,NAM Leagues Cup,FC Dallas,Inter Miami CF,4-4,85,85,0,85,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+815,2023-08-11,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Charlotte FC,4-0,86,86,0,86,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+816,2023-08-15,NAM Leagues Cup,NAM Leagues Cup,Philadelphia Union,Inter Miami CF,1-4,20,20,0,20,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+817,2023-08-20,NAM Leagues Cup,NAM Leagues Cup,Nashville SC,Inter Miami CF,1-1,23,23,0,23,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+818,2023-08-26,PRM Major League Soccer,PRM Major League Soccer,New York Red Bulls,Inter Miami CF,0-2,89,89,0,89,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+819,2023-09-07,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Argentina,Ecuador,1-0,78,78,0,78,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+820,2023-10-17,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Peru,Argentina,0-2,32,32,0,32,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+821,2023-10-17,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Peru,Argentina,0-2,42,42,0,42,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+822,2024-02-25,PRM Major League Soccer,PRM Major League Soccer,Los Angeles Galaxy,Inter Miami CF,1-1,90+2,90,2,92,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+823,2024-03-02,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Orlando City,5-0,57,57,0,57,Rebound,Chest,0,1,https://www.messistats.com/en/locationsscored
+824,2024-03-02,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Orlando City,5-0,62,62,0,62,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+825,2024-03-07,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Nashville SC,Inter Miami CF,2-2,52,52,0,52,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+826,2024-03-13,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Inter Miami CF,Nashville SC,3-1,23,23,0,23,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+827,2024-04-06,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Colorado Rapids,2-2,58,58,0,58,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+828,2024-04-13,PRM Major League Soccer,PRM Major League Soccer,Sporting Kansas City,Inter Miami CF,2-3,51,51,0,51,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+829,2024-04-20,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Nashville SC,3-1,11,11,0,11,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+830,2024-04-20,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Nashville SC,3-1,81,81,0,81,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+831,2024-04-27,PRM Major League Soccer,PRM Major League Soccer,New England Revolution,Inter Miami CF,1-4,32,32,0,32,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+832,2024-04-27,PRM Major League Soccer,PRM Major League Soccer,New England Revolution,Inter Miami CF,1-4,67,67,0,67,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+833,2024-05-04,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,New York Red Bulls,6-2,50,50,0,50,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+834,2024-05-29,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Atlanta United FC,1-3,62,62,0,62,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+835,2024-06-01,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,St. Louis City,3-3,25,25,0,25,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+836,2024-06-14,FRN International friendly,FRN International friendly,Guatemala,Argentina,1-4,12,12,0,12,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+837,2024-06-14,FRN International friendly,FRN International friendly,Guatemala,Argentina,1-4,77,77,0,77,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+838,2024-07-09,CPA Copa América 2024,CPA Copa América 2024,Argentina,Canada,2-0,51,51,0,51,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+839,2024-09-15,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Philadelphia Union,3-1,26,26,0,26,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+840,2024-09-15,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Philadelphia Union,3-1,30,30,0,30,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+841,2024-09-29,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Charlotte FC,1-1,67,67,0,67,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+842,2024-10-02,PRM Major League Soccer,PRM Major League Soccer,Columbus Crew,Inter Miami CF,2-3,45,45,0,45,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+843,2024-10-02,PRM Major League Soccer,PRM Major League Soccer,Columbus Crew,Inter Miami CF,2-3,45+5,45,5,50,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+844,2024-10-15,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Argentina,Bolivia,6-0,19,19,0,19,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+845,2024-10-15,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Argentina,Bolivia,6-0,84,84,0,84,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+846,2024-10-15,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Argentina,Bolivia,6-0,86,86,0,86,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+847,2024-10-19,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,New England Revolution,6-2,78,78,0,78,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+848,2024-10-19,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,New England Revolution,6-2,81,81,0,81,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+849,2024-10-19,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,New England Revolution,6-2,89,89,0,89,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+850,2024-11-09,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,Inter Miami CF,Atlanta United FC,2-3,65,65,0,65,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+851,2025-02-19,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Sporting Kansas City,Inter Miami CF,0-1,56,56,0,56,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+852,2025-02-25,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Inter Miami CF,Sporting Kansas City,3-1,19,19,0,19,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+853,2025-03-13,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Cavalier F.C.,Inter Miami CF,0-2,90+2,90,2,92,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+854,2025-03-16,PRM Major League Soccer,PRM Major League Soccer,Atlanta United FC,Inter Miami CF,1-2,20,20,0,20,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+855,2025-03-29,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Philadelphia Union,2-1,57,57,0,57,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+856,2025-04-06,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Toronto FC,1-1,45+5,45,5,50,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+857,2025-04-09,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Inter Miami CF,Los Angeles FC,3-1,35,35,0,35,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+858,2025-04-09,NAM Concacaf Champions Cup,NAM Concacaf Champions Cup,Inter Miami CF,Los Angeles FC,3-1,84,84,0,84,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+859,2025-05-03,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,New York Red Bulls,4-1,67,67,0,67,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+860,2025-05-10,PRM Major League Soccer,PRM Major League Soccer,Minnesota United FC,Inter Miami CF,4-1,48,48,0,48,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+861,2025-05-24,PRM Major League Soccer,PRM Major League Soccer,Philadelphia Union,Inter Miami CF,3-3,87,87,0,87,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+862,2025-05-28,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,CF Montreal,4-2,27,27,0,27,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+863,2025-05-28,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,CF Montreal,4-2,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+864,2025-05-31,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Columbus Crew,5-1,15,15,0,15,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+865,2025-05-31,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Columbus Crew,5-1,24,24,0,24,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+866,2025-06-19,WCT FIFA Club World Cup,WCT FIFA Club World Cup,Inter Miami CF,FC Porto,2-1,54,54,0,54,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+867,2025-07-05,PRM Major League Soccer,PRM Major League Soccer,CF Montreal,Inter Miami CF,1-4,40,40,0,40,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+868,2025-07-05,PRM Major League Soccer,PRM Major League Soccer,CF Montreal,Inter Miami CF,1-4,62,62,0,62,Solo run,Left foot,0,1,https://www.messistats.com/en/locationsscored
+869,2025-07-09,PRM Major League Soccer,PRM Major League Soccer,New England Revolution,Inter Miami CF,1-2,27,27,0,27,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+870,2025-07-09,PRM Major League Soccer,PRM Major League Soccer,New England Revolution,Inter Miami CF,1-2,38,38,0,38,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+871,2025-07-12,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Nashville SC,2-1,17,17,0,17,Free kick,Left foot,0,1,https://www.messistats.com/en/locationsscored
+872,2025-07-12,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Nashville SC,2-1,62,62,0,62,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+873,2025-07-19,PRM Major League Soccer,PRM Major League Soccer,New York Red Bulls,Inter Miami CF,1-5,60,60,0,60,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+874,2025-07-19,PRM Major League Soccer,PRM Major League Soccer,New York Red Bulls,Inter Miami CF,1-5,75,75,0,75,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+875,2025-08-16,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Los Angeles Galaxy,3-1,84,84,0,84,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+876,2025-08-27,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Orlando City,3-1,77,77,0,77,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+877,2025-08-27,NAM Leagues Cup,NAM Leagues Cup,Inter Miami CF,Orlando City,3-1,88,88,0,88,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+878,2025-09-04,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Argentina,Venezuela,3-0,39,39,0,39,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+879,2025-09-04,WCQ World Cup 2026 Qualification,WCQ World Cup 2026 Qualification,Argentina,Venezuela,3-0,80,80,0,80,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+880,2025-09-16,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Seatlle Sounders,3-1,41,41,0,41,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+881,2025-09-20,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,D.C. United,3-2,66,66,0,66,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+882,2025-09-20,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,D.C. United,3-2,85,85,0,85,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+883,2025-09-24,PRM Major League Soccer,PRM Major League Soccer,New York City FC,Inter Miami CF,0-4,74,74,0,74,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+884,2025-09-24,PRM Major League Soccer,PRM Major League Soccer,New York City FC,Inter Miami CF,0-4,86,86,0,86,Field goal,Right foot,0,1,https://www.messistats.com/en/locationsscored
+885,2025-10-11,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Atlanta United FC,4-0,39,39,0,39,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+886,2025-10-11,PRM Major League Soccer,PRM Major League Soccer,Inter Miami CF,Atlanta United FC,4-0,87,87,0,87,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+887,2025-10-19,PRM Major League Soccer,PRM Major League Soccer,Nashville SC,Inter Miami CF,2-5,35,35,0,35,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+888,2025-10-19,PRM Major League Soccer,PRM Major League Soccer,Nashville SC,Inter Miami CF,2-5,63,63,0,63,Penalty,Left foot,1,1,https://www.messistats.com/en/locationsscored
+889,2025-10-19,PRM Major League Soccer,PRM Major League Soccer,Nashville SC,Inter Miami CF,2-5,81,81,0,81,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+890,2025-10-24,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,Inter Miami CF,Nashville SC,3-1,19,19,0,19,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
+891,2025-10-24,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,Inter Miami CF,Nashville SC,3-1,90+6,90,6,96,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+892,2025-11-01,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,Nashville SC,Inter Miami CF,2-1,90,90,0,90,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+893,2025-11-08,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,Inter Miami CF,Nashville SC,4-0,10,10,0,10,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+894,2025-11-08,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,Inter Miami CF,Nashville SC,4-0,39,39,0,39,Field goal,Left foot,0,1,https://www.messistats.com/en/locationsscored
+895,2025-11-14,FRN International friendly,FRN International friendly,Angola,Argentina,0-2,82,82,0,82,Field goal,Left foot,0,0,https://www.messistats.com/en/locationsscored
+896,2025-11-23,PRM Major League Soccer Play Offs,PRM Major League Soccer Play Offs,FC Cincinnati,Inter Miami CF,0-4,19,19,0,19,Field goal,Head,0,1,https://www.messistats.com/en/locationsscored
