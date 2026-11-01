@@ -5,6 +5,7 @@ description = "Analytics messi goal stats"
 readme = "README.md"
 requires-python = ">=3.12,<3.14"
 dependencies = [
+    "lifelines>=0.30.0",
     "lxml>=6.0.2",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
