@@ -10,6 +10,10 @@ __init__.py
 # Virtual environments
 .venv
 
+# Keep empty directories (tracked by git); ignore .gitkeep itself
+.gitkeep
+
+# macOS files
 .gitkeep
 
 .DS_Store

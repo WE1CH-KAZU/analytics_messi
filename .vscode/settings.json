@@ -1,0 +1,12 @@
+{
+  "python.analysis.extraPaths": ["${workspaceFolder}/lib"],
+  "terminal.integrated.env.osx": {
+    "PYTHONPATH": "${workspaceFolder}/lib"
+  },
+  "terminal.integrated.env.linux": {
+    "PYTHONPATH": "${workspaceFolder}/lib"
+  },
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "${workspaceFolder}/lib"
+  }
+}

@@ -1,0 +1,590 @@
+time,event,is_home,club
+34,1,True,FC Barcelona
+42,1,True,FC Barcelona
+6,1,False,Argentina
+37,1,True,FC Barcelona
+11,1,True,FC Barcelona
+45,1,True,FC Barcelona
+29,1,True,FC Barcelona
+39,1,False,FC Barcelona
+43,1,True,FC Barcelona
+35,1,False,FC Barcelona
+5,1,True,FC Barcelona
+19,1,True,FC Barcelona
+43,1,False,Argentina
+43,1,True,FC Barcelona
+36,1,False,Argentina
+18,1,False,FC Barcelona
+44,1,True,FC Barcelona
+6,1,True,FC Barcelona
+18,1,False,Argentina
+9,1,True,FC Barcelona
+6,1,True,Argentina
+4,1,False,FC Barcelona
+19,1,False,FC Barcelona
+13,1,False,FC Barcelona
+21,1,True,FC Barcelona
+30,1,False,FC Barcelona
+32,1,True,FC Barcelona
+40,1,True,FC Barcelona
+25,1,True,FC Barcelona
+26,1,True,Argentina
+9,1,True,FC Barcelona
+19,1,False,FC Barcelona
+24,1,False,FC Barcelona
+36,1,True,Real Madrid
+16,1,True,FC Barcelona
+24,1,False,FC Barcelona
+26,1,True,FC Barcelona
+27,1,False,FC Barcelona
+36,1,False,FC Barcelona
+7,1,True,FC Barcelona
+42,1,False,FC Barcelona
+13,1,True,FC Barcelona
+5,1,False,FC Barcelona
+21,1,True,FC Barcelona
+33,1,True,Real Madrid
+19,1,False,FC Barcelona
+17,1,True,FC Barcelona
+5,1,False,FC Barcelona
+24,1,True,FC Barcelona
+3,1,False,FC Barcelona
+10,1,True,Argentina
+22,1,True,FC Barcelona
+13,1,False,FC Barcelona
+21,1,True,FC Barcelona
+19,1,True,FC Barcelona
+42,1,False,FC Barcelona
+4,1,True,FC Barcelona
+31,1,False,FC Barcelona
+23,1,False,FC Barcelona
+17,1,False,FC Barcelona
+44,1,True,FC Barcelona
+38,1,False,FC Barcelona
+33,1,True,FC Barcelona
+9,1,True,FC Barcelona
+17,1,True,FC Barcelona
+38,1,False,FC Barcelona
+48,1,True,FC Barcelona
+43,1,False,FC Barcelona
+42,1,True,Argentina
+45,1,True,Real Madrid
+45,1,True,FC Barcelona
+39,1,True,FC Barcelona
+5,1,True,FC Barcelona
+26,1,True,FC Barcelona
+38,1,False,FC Barcelona
+26,1,True,Argentina
+11,1,True,FC Barcelona
+13,1,True,FC Barcelona
+24,1,False,FC Barcelona
+43,1,True,FC Barcelona
+31,1,False,FC Barcelona
+17,1,False,FC Barcelona
+12,1,True,FC Barcelona
+33,1,False,FC Barcelona
+22,1,True,FC Barcelona
+20,1,False,Argentina
+25,1,True,FC Barcelona
+29,1,False,FC Barcelona
+25,1,False,FC Barcelona
+17,1,True,FC Barcelona
+25,1,False,FC Barcelona
+11,1,True,FC Barcelona
+39,1,False,FC Barcelona
+44,1,True,FC Barcelona
+16,1,False,FC Barcelona
+35,1,True,FC Barcelona
+12,1,True,FC Barcelona
+20,1,False,FC Barcelona
+31,1,True,Argentina
+31,1,True,Argentina
+11,1,True,FC Barcelona
+45,1,True,Real Madrid
+31,1,True,FC Barcelona
+28,1,False,Argentina
+18,1,False,FC Barcelona
+44,1,False,FC Barcelona
+16,1,True,FC Barcelona
+27,1,False,FC Barcelona
+25,1,True,FC Barcelona
+16,1,False,FC Barcelona
+11,1,False,FC Barcelona
+29,1,True,FC Barcelona
+27,1,False,FC Barcelona
+29,1,True,FC Barcelona
+7,1,False,FC Barcelona
+11,1,True,FC Barcelona
+39,1,False,FC Barcelona
+13,1,True,FC Barcelona
+18,1,True,Real Madrid
+5,1,True,FC Barcelona
+40,1,True,FC Barcelona
+44,1,True,Argentina
+38,1,True,Paris Saint-Germain
+15,1,False,Argentina
+12,1,True,FC Barcelona
+11,1,False,FC Barcelona
+12,1,False,Argentina
+22,1,True,FC Barcelona
+8,1,True,FC Barcelona
+21,1,False,FC Barcelona
+23,1,False,FC Barcelona
+30,1,True,FC Barcelona
+44,1,False,FC Barcelona
+44,1,False,FC Barcelona
+27,1,False,FC Barcelona
+36,1,True,FC Barcelona
+36,1,False,FC Barcelona
+24,1,True,FC Barcelona
+18,1,True,FC Barcelona
+42,1,True,Real Madrid
+30,1,True,FC Barcelona
+15,1,True,FC Barcelona
+23,1,True,FC Barcelona
+3,1,False,Argentina
+42,1,True,FC Barcelona
+11,1,True,Paris Saint-Germain
+35,1,False,FC Barcelona
+24,1,True,FC Barcelona
+36,1,False,FC Barcelona
+21,1,True,FC Barcelona
+38,1,False,FC Barcelona
+45,1,True,FC Barcelona
+19,1,True,FC Barcelona
+45,1,True,FC Barcelona
+10,1,False,FC Barcelona
+15,1,False,FC Barcelona
+41,1,True,FC Barcelona
+38,1,True,FC Barcelona
+31,1,False,FC Barcelona
+33,1,True,FC Barcelona
+14,1,False,FC Barcelona
+25,1,False,FC Barcelona
+9,1,True,FC Barcelona
+5,1,True,FC Barcelona
+20,1,False,FC Barcelona
+35,1,True,Argentina
+7,1,True,FC Barcelona
+43,1,True,FC Barcelona
+18,1,True,FC Barcelona
+20,1,False,FC Barcelona
+39,1,True,FC Barcelona
+36,1,False,FC Barcelona
+33,1,True,FC Barcelona
+13,1,True,FC Barcelona
+8,1,True,FC Barcelona
+7,1,True,FC Barcelona
+30,1,True,FC Barcelona
+29,1,True,FC Barcelona
+28,1,True,FC Barcelona
+25,1,False,FC Barcelona
+31,1,True,FC Barcelona
+23,1,False,FC Barcelona
+41,1,False,FC Barcelona
+40,1,True,FC Barcelona
+30,1,True,Argentina
+12,1,True,FC Barcelona
+8,1,True,FC Barcelona
+32,1,False,Argentina
+37,1,True,FC Barcelona
+43,1,True,Argentina
+3,1,True,FC Barcelona
+15,1,False,FC Barcelona
+17,1,True,FC Barcelona
+22,1,False,FC Barcelona
+21,1,False,FC Barcelona
+43,1,False,FC Barcelona
+10,1,True,Argentina
+24,1,False,FC Barcelona
+16,1,True,FC Barcelona
+33,1,False,FC Barcelona
+40,1,True,FC Barcelona
+4,1,True,FC Barcelona
+9,1,True,FC Barcelona
+24,1,True,FC Barcelona
+45,1,True,FC Barcelona
+16,1,True,Argentina
+28,1,True,FC Barcelona
+17,1,True,FC Barcelona
+33,1,True,Real Madrid
+12,1,True,FC Barcelona
+45,1,True,FC Barcelona
+30,1,True,FC Barcelona
+26,1,True,FC Barcelona
+45,1,True,FC Barcelona
+20,1,True,FC Barcelona
+12,1,False,Argentina
+36,1,False,FC Barcelona
+22,1,True,FC Barcelona
+12,1,True,FC Barcelona
+13,1,True,FC Barcelona
+25,1,True,FC Barcelona
+30,1,True,FC Barcelona
+21,1,False,FC Barcelona
+26,1,True,FC Barcelona
+3,1,True,FC Barcelona
+30,1,True,FC Barcelona
+27,1,True,FC Barcelona
+31,1,False,FC Barcelona
+38,1,False,FC Barcelona
+45,1,True,FC Barcelona
+17,1,True,Argentina
+14,1,False,Argentina
+16,1,True,FC Barcelona
+32,1,True,FC Barcelona
+19,1,True,FC Barcelona
+23,1,False,FC Barcelona
+12,1,True,FC Barcelona
+18,1,False,FC Barcelona
+43,1,False,FC Barcelona
+45,1,True,FC Barcelona
+20,1,False,FC Barcelona
+39,1,True,FC Barcelona
+43,1,True,FC Barcelona
+26,1,False,FC Barcelona
+18,1,True,FC Barcelona
+18,1,False,FC Barcelona
+16,1,True,FC Barcelona
+31,1,False,FC Barcelona
+37,1,True,Argentina
+3,1,False,FC Barcelona
+34,1,True,FC Barcelona
+38,1,False,FC Barcelona
+23,1,True,FC Barcelona
+13,1,False,Argentina
+33,1,True,FC Barcelona
+17,1,True,FC Barcelona
+14,1,True,FC Barcelona
+34,1,False,FC Barcelona
+23,1,True,FC Barcelona
+35,1,True,FC Barcelona
+13,1,True,Argentina
+27,1,True,FC Barcelona
+5,1,True,FC Barcelona
+49,1,True,FC Barcelona
+38,1,False,FC Barcelona
+35,1,False,FC Barcelona
+20,1,True,FC Barcelona
+46,1,True,FC Barcelona
+28,1,True,FC Barcelona
+32,1,True,FC Barcelona
+37,1,True,Paris Saint-Germain
+13,1,True,FC Barcelona
+8,1,True,FC Barcelona
+23,1,True,FC Barcelona
+25,1,False,FC Barcelona
+28,1,True,FC Barcelona
+23,1,True,Argentina
+33,1,True,Argentina
+33,1,False,Argentina
+14,1,True,Argentina
+38,1,True,Argentina
+38,1,True,Paris Saint-Germain
+38,1,False,Paris Saint-Germain
+6,1,False,Paris Saint-Germain
+8,1,True,Argentina
+22,1,True,Paris Saint-Germain
+28,1,False,Paris Saint-Germain
+37,1,False,Paris Saint-Germain
+5,1,False,Paris Saint-Germain
+47,1,True,Argentina
+29,1,True,Paris Saint-Germain
+22,1,False,Paris Saint-Germain
+19,1,True,Paris Saint-Germain
+44,1,False,Argentina
+10,1,True,Argentina
+35,1,True,Argentina
+34,1,True,Argentina
+23,1,True,Argentina
+29,1,False,Paris Saint-Germain
+12,1,True,Paris Saint-Germain
+20,1,True,Argentina
+26,1,False,Paris Saint-Germain
+40,1,True,Paris Saint-Germain
+2,1,True,Argentina
+8,1,True,Inter Miami CF
+7,1,True,Inter Miami CF
+6,1,False,Inter Miami CF
+20,1,False,Inter Miami CF
+23,1,False,Inter Miami CF
+32,1,False,Argentina
+23,1,True,Inter Miami CF
+11,1,True,Inter Miami CF
+32,1,False,Inter Miami CF
+25,1,True,Inter Miami CF
+12,1,False,Argentina
+26,1,True,Inter Miami CF
+45,1,False,Inter Miami CF
+19,1,True,Argentina
+19,1,True,Inter Miami CF
+20,1,False,Inter Miami CF
+50,1,True,Inter Miami CF
+35,1,True,Inter Miami CF
+27,1,True,Inter Miami CF
+15,1,True,Inter Miami CF
+40,1,False,Inter Miami CF
+27,1,False,Inter Miami CF
+17,1,True,Inter Miami CF
+39,1,True,Argentina
+41,1,True,Inter Miami CF
+39,1,True,Inter Miami CF
+35,1,False,Inter Miami CF
+19,1,True,Inter Miami CF
+10,1,True,Inter Miami CF
+19,1,False,Inter Miami CF
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,True,Argentina
+45,0,False,Argentina
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,Argentina
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,Argentina
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,Real Madrid
+45,0,True,FC Barcelona
+45,0,True,Real Madrid
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,Argentina
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,Argentina
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,True,Argentina
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,Argentina
+45,0,True,FC Barcelona
+45,0,True,Argentina
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,True,Argentina
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Real Madrid
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,Argentina
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,False,FC Barcelona
+45,0,True,Argentina
+45,0,True,Paris Saint-Germain
+45,0,True,Paris Saint-Germain
+45,0,True,Paris Saint-Germain
+45,0,True,Argentina
+45,0,True,Paris Saint-Germain
+45,0,True,Paris Saint-Germain
+45,0,False,Paris Saint-Germain
+45,0,True,Argentina
+45,0,False,Paris Saint-Germain
+45,0,True,Paris Saint-Germain
+45,0,True,Argentina
+45,0,False,Argentina
+45,0,True,Paris Saint-Germain
+45,0,False,Paris Saint-Germain
+45,0,True,Paris Saint-Germain
+45,0,True,Paris Saint-Germain
+45,0,True,Argentina
+45,0,False,Paris Saint-Germain
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,True,Argentina
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,True,Argentina
+45,0,True,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,True,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,False,Inter Miami CF
+45,0,False,Argentina
